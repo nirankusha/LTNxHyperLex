@@ -1,0 +1,333 @@
+i,hypo,hyper,closure,hypo_syn,hyper_syn,path_len,path,vec_hypo,vec_hyper,vec_path_mean,vec_hypo_method,vec_hyper_method,vec_hypo_key,vec_hyper_key
+0,supermarket,commercial building,False,,,,,True,True,,direct_key,token_average_surface,supermarket,
+1,hand tool,tool,True,hand_tool.n.01,tool.n.01,1.0,hand_tool.n.01 -> tool.n.01,True,True,,synset_lemma,synset_lemma,tool,tool
+2,peach,fruit,True,peach.n.03,fruit.n.01,2.0,peach.n.03 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_lemma,synset_hypernym_backoff,peach,plant
+3,pike,fish,True,pike.n.05,fish.n.01,5.0,pike.n.05 -> percoid_fish.n.01 -> spiny-finned_fish.n.01 -> teleost_fish.n.01 -> bony_fish.n.01 -> fish.n.01,True,True,,synset_lemma,synset_hypernym_backoff,pike,animal
+4,nail gun,power tool,False,,,,,True,True,,direct_key,token_average_surface,nail gun,
+5,workshop,industrial building,False,,,,,True,True,,direct_key,token_average_surface,workshop,
+6,noodles,grain product,False,,,,,True,False,,direct_key,unk,noodles,
+7,tortilla,grain product,False,,,,,True,False,,wn_hypernym_backoff,unk,cake,
+8,store,commercial building,False,,,,,True,True,,direct_key,token_average_surface,store,
+9,flowering plant,plant,True,plant.n.01,plant.n.01,0.0,plant.n.01,True,True,,synset_lemma,synset_lemma,plant,plant
+10,fish,animal,True,fish.n.01,animal.n.01,4.0,fish.n.01 -> aquatic_vertebrate.n.01 -> vertebrate.n.01 -> chordate.n.01 -> animal.n.01,True,True,,synset_hypernym_backoff,synset_lemma,animal,animal
+11,glider,aircraft,True,glider.n.01,aircraft.n.01,2.0,glider.n.01 -> heavier-than-air_craft.n.01 -> aircraft.n.01,True,True,,synset_lemma,synset_hypernym_backoff,glider,vehicle
+12,aircraft,vehicle,True,aircraft.n.01,vehicle.n.01,2.0,aircraft.n.01 -> craft.n.02 -> vehicle.n.01,True,True,,synset_hypernym_backoff,synset_lemma,vehicle,vehicle
+13,meat,food,True,meat.n.01,food.n.02,1.0,meat.n.01 -> food.n.02,True,True,,synset_hypernym_backoff,synset_lemma,food,food
+14,clothing,physical object,True,clothing.n.01,object.n.01,4.0,clothing.n.01 -> covering.n.02 -> artifact.n.01 -> whole.n.02 -> object.n.01,True,True,,synset_lemma,synset_lemma,clothing,physical object
+15,ferry,watercraft,True,ferry.n.01,vessel.n.02,2.0,ferry.n.01 -> boat.n.01 -> vessel.n.02,True,True,,synset_lemma,synset_hypernym_backoff,ferry,vehicle
+16,plant,physical object,True,plant.n.02,object.n.01,4.0,plant.n.02 -> organism.n.01 -> living_thing.n.01 -> whole.n.02 -> object.n.01,True,True,,synset_lemma,synset_lemma,plant,physical object
+17,oak,tree,True,oak.n.02,tree.n.01,1.0,oak.n.02 -> tree.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+18,saw,hand tool,True,saw.n.02,hand_tool.n.01,1.0,saw.n.02 -> hand_tool.n.01,True,True,,synset_hypernym_backoff,synset_lemma,tool,tool
+19,scarf,accessory,False,,,,,True,True,,direct_key,wn_hypernym_backoff,scarf,clothing
+20,salmon,fish,True,salmon.n.03,fish.n.02,1.0,salmon.n.03 -> fish.n.02,True,True,,synset_lemma,synset_hypernym_backoff,salmon,food
+21,bacon,meat,True,bacon.n.01,meat.n.01,3.0,bacon.n.01 -> cut_of_pork.n.01 -> cut.n.06 -> meat.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,pork,food
+22,viola,string instrument,True,viola.n.03,bowed_stringed_instrument.n.01,1.0,viola.n.03 -> bowed_stringed_instrument.n.01,True,True,,synset_lemma,synset_lemma,viola,instrument
+23,road vehicle,vehicle,True,vehicle.n.01,vehicle.n.01,0.0,vehicle.n.01,True,True,,synset_lemma,synset_lemma,vehicle,vehicle
+24,mosquito,insect,True,mosquito.n.01,insect.n.01,2.0,mosquito.n.01 -> dipterous_insect.n.01 -> insect.n.01,True,True,,synset_lemma,synset_hypernym_backoff,mosquito,animal
+25,trousers,lower body clothing,True,trouser.n.01,clothing.n.01,2.0,trouser.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_hypernym_backoff,synset_lemma,clothing,clothing
+26,moth,insect,True,moth.n.01,insect.n.01,2.0,moth.n.01 -> lepidopterous_insect.n.01 -> insect.n.01,True,True,,synset_lemma,synset_hypernym_backoff,moth,animal
+27,airplane,aircraft,True,airplane.n.01,aircraft.n.01,2.0,airplane.n.01 -> heavier-than-air_craft.n.01 -> aircraft.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,vehicle,vehicle
+28,bat,mammal,True,bat.n.01,mammal.n.01,2.0,bat.n.01 -> placental.n.01 -> mammal.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+29,synagogue,religious building,True,synagogue.n.01,building.n.01,2.0,synagogue.n.01 -> place_of_worship.n.01 -> building.n.01,True,True,,synset_lemma,synset_lemma,synagogue,building
+30,power plant,industrial building,False,,,,,True,True,,direct_key,token_average_surface,power plant,
+31,cereal,grain product,True,grain.n.02,grain.n.02,0.0,grain.n.02,True,True,,synset_lemma,synset_lemma,food,food
+32,lecture hall,educational building,False,,,,,True,True,,direct_key,token_average_surface,lecture hall,
+33,bassoon,woodwind,True,bassoon.n.01,woodwind.n.01,3.0,bassoon.n.01 -> double-reed_instrument.n.01 -> beating-reed_instrument.n.01 -> woodwind.n.01,True,True,,synset_lemma,synset_lemma,bassoon,instrument
+34,sailboat,watercraft,True,sailboat.n.01,vessel.n.02,2.0,sailboat.n.01 -> sailing_vessel.n.01 -> vessel.n.02,True,True,,synset_lemma,synset_hypernym_backoff,sailboat,vehicle
+35,cap,headwear,False,,,,,True,False,,direct_key,unk,cap,
+36,cat,mammal,True,cat.n.01,mammal.n.01,4.0,cat.n.01 -> feline.n.01 -> carnivore.n.01 -> placental.n.01 -> mammal.n.01,True,True,,synset_lemma,synset_hypernym_backoff,cat,animal
+37,bus,road vehicle,True,bus.n.04,vehicle.n.01,5.0,bus.n.04 -> car.n.01 -> motor_vehicle.n.01 -> self-propelled_vehicle.n.01 -> wheeled_vehicle.n.01 -> vehicle.n.01,True,True,,wn_lemma,synset_lemma,coach,vehicle
+38,wasp,insect,True,wasp.n.02,insect.n.01,2.0,wasp.n.02 -> hymenopterous_insect.n.01 -> insect.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+39,tulip,flowering plant,True,tulip.n.01,plant.n.02,4.0,tulip.n.01 -> liliaceous_plant.n.01 -> bulbous_plant.n.01 -> vascular_plant.n.01 -> plant.n.02,True,True,,synset_hypernym_backoff,synset_lemma,plant,plant
+40,helmet,headwear,False,,,,,False,False,,unk,unk,,
+41,reptile,animal,True,reptile.n.01,animal.n.01,3.0,reptile.n.01 -> vertebrate.n.01 -> chordate.n.01 -> animal.n.01,True,True,,synset_hypernym_backoff,synset_lemma,animal,animal
+42,seagull,bird,True,gull.n.02,bird.n.01,5.0,gull.n.02 -> larid.n.01 -> coastal_diving_bird.n.01 -> seabird.n.01 -> aquatic_bird.n.01 -> bird.n.01,True,True,,synset_lemma,synset_hypernym_backoff,seagull,animal
+43,rocket,spacecraft,False,,,,,True,True,,direct_key,wn_lemma,rocket,vehicle
+44,tram,rail vehicle,False,,,,,True,True,,direct_key,token_average_surface,tram,
+45,sparrow,bird,True,sparrow.n.01,bird.n.01,2.0,sparrow.n.01 -> passerine.n.01 -> bird.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+46,fern,plant,True,fern.n.01,plant.n.02,3.0,fern.n.01 -> pteridophyte.n.01 -> vascular_plant.n.01 -> plant.n.02,True,True,,synset_hypernym_backoff,synset_lemma,plant,plant
+47,temple,religious building,True,temple.n.03,building.n.01,1.0,temple.n.03 -> building.n.01,True,True,,synset_lemma,synset_lemma,temple,building
+48,yacht,watercraft,True,yacht.n.01,vessel.n.02,1.0,yacht.n.01 -> vessel.n.02,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,vehicle,vehicle
+49,maple,tree,True,maple.n.02,tree.n.01,2.0,maple.n.02 -> angiospermous_tree.n.01 -> tree.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+50,kiwi,fruit,True,kiwi.n.03,fruit.n.01,2.0,kiwi.n.03 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_lemma,synset_hypernym_backoff,kiwi,plant
+51,blueberry,fruit,True,blueberry.n.02,fruit.n.01,3.0,blueberry.n.02 -> berry.n.01 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_lemma,synset_hypernym_backoff,blueberry,plant
+52,bugle,brass instrument,True,bugle.n.01,brass.n.02,1.0,bugle.n.01 -> brass.n.02,True,True,,synset_hypernym_backoff,synset_lemma,instrument,instrument
+53,mammal,animal,True,mammal.n.01,animal.n.01,3.0,mammal.n.01 -> vertebrate.n.01 -> chordate.n.01 -> animal.n.01,True,True,,synset_hypernym_backoff,synset_lemma,animal,animal
+54,instrument,physical object,True,instrument.n.01,object.n.01,5.0,instrument.n.01 -> device.n.01 -> instrumentality.n.03 -> artifact.n.01 -> whole.n.02 -> object.n.01,True,True,,synset_lemma,synset_lemma,instrument,physical object
+55,lawn mower,gardening tool,True,lawn_mower.n.01,tool.n.01,2.0,lawn_mower.n.01 -> garden_tool.n.01 -> tool.n.01,True,True,,synset_lemma,synset_lemma,lawn mower,tool
+56,alto saxophone,woodwind,False,,,,,True,True,,token_average_surface,wn_lemma,,instrument
+57,boat,watercraft,True,boat.n.01,vessel.n.02,1.0,boat.n.01 -> vessel.n.02,True,True,,synset_lemma,synset_hypernym_backoff,boat,vehicle
+58,building,physical object,True,building.n.01,object.n.01,4.0,building.n.01 -> structure.n.01 -> artifact.n.01 -> whole.n.02 -> object.n.01,True,True,,synset_lemma,synset_lemma,building,physical object
+59,beret,headwear,False,,,,,True,False,,direct_key,unk,beret,
+60,dragonfly,insect,True,dragonfly.n.01,insect.n.01,2.0,dragonfly.n.01 -> odonate.n.01 -> insect.n.01,True,True,,synset_lemma,synset_hypernym_backoff,snake,animal
+61,hat,headwear,False,,,,,True,False,,direct_key,unk,hat,
+62,rice,grain product,True,rice.n.01,grain.n.02,1.0,rice.n.01 -> grain.n.02,True,True,,synset_lemma,synset_lemma,rice,food
+63,jet,aircraft,True,jet.n.01,aircraft.n.01,3.0,jet.n.01 -> airplane.n.01 -> heavier-than-air_craft.n.01 -> aircraft.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,vehicle,vehicle
+64,plum,fruit,True,plum.n.02,fruit.n.01,2.0,plum.n.02 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_lemma,synset_hypernym_backoff,plum,plant
+65,hammer,hand tool,True,hammer.n.02,hand_tool.n.01,1.0,hammer.n.02 -> hand_tool.n.01,True,True,,synset_hypernym_backoff,synset_lemma,tool,tool
+66,lamb,meat,True,lamb.n.05,meat.n.01,1.0,lamb.n.05 -> meat.n.01,True,True,,synset_lemma,synset_hypernym_backoff,lamb,food
+67,bee,insect,True,bee.n.01,insect.n.01,2.0,bee.n.01 -> hymenopterous_insect.n.01 -> insect.n.01,True,True,,synset_lemma,synset_hypernym_backoff,bee,animal
+68,goldfish,fish,True,goldfish.n.01,fish.n.01,6.0,goldfish.n.01 -> cyprinid.n.01 -> cypriniform_fish.n.01 -> soft-finned_fish.n.01 -> teleost_fish.n.01 -> bony_fish.n.01 -> fish.n.01,True,True,,synset_lemma,synset_hypernym_backoff,goldfish,animal
+69,hotel,commercial building,True,hotel.n.01,building.n.01,1.0,hotel.n.01 -> building.n.01,True,True,,synset_lemma,synset_lemma,hotel,building
+70,drum kit,percussion instrument,True,drum.n.01,percussion_instrument.n.01,1.0,drum.n.01 -> percussion_instrument.n.01,True,True,,synset_hypernym_backoff,synset_lemma,instrument,instrument
+71,triangle,percussion instrument,True,triangle.n.05,percussion_instrument.n.01,1.0,triangle.n.05 -> percussion_instrument.n.01,True,True,,synset_lemma,synset_lemma,triangle,instrument
+72,subway train,rail vehicle,False,,,,,True,True,,token_average_surface,token_average_surface,,
+73,crow,bird,True,crow.n.01,bird.n.01,4.0,crow.n.01 -> corvine_bird.n.01 -> oscine.n.01 -> passerine.n.01 -> bird.n.01,True,True,,synset_lemma,synset_hypernym_backoff,crow,animal
+74,minibus,road vehicle,False,,,,,True,True,,direct_key,token_average_surface,minibus,
+75,snare drum,percussion instrument,True,snare_drum.n.01,percussion_instrument.n.01,2.0,snare_drum.n.01 -> drum.n.01 -> percussion_instrument.n.01,True,True,,synset_lemma,synset_lemma,snare drum,instrument
+76,tiger,mammal,True,tiger.n.02,mammal.n.01,5.0,tiger.n.02 -> big_cat.n.01 -> feline.n.01 -> carnivore.n.01 -> placental.n.01 -> mammal.n.01,True,True,,synset_lemma,synset_hypernym_backoff,tiger,animal
+77,snake,reptile,True,snake.n.01,reptile.n.01,2.0,snake.n.01 -> diapsid.n.01 -> reptile.n.01,True,True,,synset_lemma,synset_hypernym_backoff,snake,animal
+78,bracelet,accessory,False,,,,,True,True,,direct_key,wn_hypernym_backoff,bracelet,clothing
+79,catfish,fish,True,catfish.n.03,fish.n.01,4.0,catfish.n.03 -> soft-finned_fish.n.01 -> teleost_fish.n.01 -> bony_fish.n.01 -> fish.n.01,True,True,,synset_lemma,synset_hypernym_backoff,catfish,animal
+80,pork,meat,True,pork.n.01,meat.n.01,1.0,pork.n.01 -> meat.n.01,True,True,,synset_lemma,synset_hypernym_backoff,pork,food
+81,tuba,brass instrument,True,bass_horn.n.01,brass.n.02,1.0,bass_horn.n.01 -> brass.n.02,True,True,,synset_lemma,synset_lemma,tuba,instrument
+82,accordion,keyboard instrument,True,accordion.n.01,keyboard_instrument.n.01,1.0,accordion.n.01 -> keyboard_instrument.n.01,True,True,,synset_lemma,synset_lemma,accordion,instrument
+83,spruce,tree,True,spruce.n.02,tree.n.01,3.0,spruce.n.02 -> conifer.n.01 -> gymnospermous_tree.n.01 -> tree.n.01,True,True,,synset_lemma,synset_hypernym_backoff,spruce,plant
+84,hoodie,upper body clothing,False,,,,,False,True,,unk,token_average_surface,,
+85,office building,commercial building,True,office_building.n.01,building.n.01,1.0,office_building.n.01 -> building.n.01,True,True,,synset_lemma,synset_lemma,building,building
+86,necklace,accessory,False,,,,,True,True,,direct_key,wn_hypernym_backoff,necklace,clothing
+87,pigeon,bird,True,pigeon.n.01,bird.n.01,3.0,pigeon.n.01 -> columbiform_bird.n.01 -> gallinaceous_bird.n.01 -> bird.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+88,whale,mammal,True,whale.n.02,mammal.n.01,4.0,whale.n.02 -> cetacean.n.01 -> aquatic_mammal.n.01 -> placental.n.01 -> mammal.n.01,True,True,,unk,synset_hypernym_backoff,,animal
+89,bracken,fern,True,bracken.n.01,fern.n.01,1.0,bracken.n.01 -> fern.n.01,True,True,,synset_lemma,synset_hypernym_backoff,bracken,plant
+90,elephant,mammal,True,elephant.n.01,mammal.n.01,3.0,elephant.n.01 -> pachyderm.n.01 -> placental.n.01 -> mammal.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+91,apple tree,tree,True,tree.n.01,tree.n.01,0.0,tree.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+92,alligator,reptile,True,alligator.n.02,reptile.n.01,3.0,alligator.n.02 -> crocodilian_reptile.n.01 -> diapsid.n.01 -> reptile.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+93,carp,fish,True,carp.n.02,fish.n.01,6.0,carp.n.02 -> cyprinid.n.01 -> cypriniform_fish.n.01 -> soft-finned_fish.n.01 -> teleost_fish.n.01 -> bony_fish.n.01 -> fish.n.01,True,True,,synset_lemma,synset_hypernym_backoff,carp,animal
+94,bicycle,road vehicle,True,bicycle.n.01,vehicle.n.01,2.0,bicycle.n.01 -> wheeled_vehicle.n.01 -> vehicle.n.01,True,True,,synset_lemma,synset_lemma,bicycle,vehicle
+95,barrel cactus,cactus,True,barrel_cactus.n.01,cactus.n.01,1.0,barrel_cactus.n.01 -> cactus.n.01,True,True,,synset_lemma,synset_hypernym_backoff,barrel cactus,plant
+96,headwear,clothing,False,,,,,False,True,,unk,direct_key,,clothing
+97,keyboard instrument,instrument,True,instrument.n.01,instrument.n.01,0.0,instrument.n.01,True,True,,synset_lemma,synset_lemma,instrument,instrument
+98,birch,tree,True,birch.n.02,tree.n.01,1.0,birch.n.02 -> tree.n.01,True,True,,synset_lemma,synset_hypernym_backoff,birch,plant
+99,clavichord,keyboard instrument,True,clavichord.n.01,keyboard_instrument.n.01,1.0,clavichord.n.01 -> keyboard_instrument.n.01,True,True,,synset_lemma,synset_lemma,clavichord,instrument
+100,clarinet,woodwind,True,clarinet.n.01,woodwind.n.01,3.0,clarinet.n.01 -> single-reed_instrument.n.01 -> beating-reed_instrument.n.01 -> woodwind.n.01,True,True,,synset_hypernym_backoff,synset_lemma,instrument,instrument
+101,upper body clothing,clothing,True,clothing.n.01,clothing.n.01,0.0,clothing.n.01,True,True,,synset_lemma,synset_lemma,clothing,clothing
+102,daisy,flowering plant,True,daisy.n.01,angiosperm.n.01,2.0,daisy.n.01 -> flower.n.01 -> angiosperm.n.01,True,True,,synset_lemma,synset_lemma,daisy,plant
+103,jacket,upper body clothing,True,jacket.n.01,clothing.n.01,4.0,jacket.n.01 -> coat.n.01 -> overgarment.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_lemma,synset_lemma,jacket,clothing
+104,butterfly,insect,True,butterfly.n.01,insect.n.01,2.0,butterfly.n.01 -> lepidopterous_insect.n.01 -> insect.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+105,educational building,building,True,building.n.01,building.n.01,0.0,building.n.01,True,True,,synset_lemma,synset_lemma,building,building
+106,gecko,reptile,True,gecko.n.01,reptile.n.01,4.0,gecko.n.01 -> lizard.n.01 -> saurian.n.01 -> diapsid.n.01 -> reptile.n.01,True,True,,unk,synset_hypernym_backoff,,animal
+107,shovel,gardening tool,True,shovel.n.01,tool.n.01,2.0,shovel.n.01 -> hand_tool.n.01 -> tool.n.01,True,True,,synset_lemma,synset_lemma,shovel,tool
+108,tape measure,measuring tool,False,,,,,True,True,,direct_key,token_average_surface,tape measure,
+109,cedar,tree,True,cedar.n.01,tree.n.01,3.0,cedar.n.01 -> conifer.n.01 -> gymnospermous_tree.n.01 -> tree.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+110,tomato,vegetable,True,tomato.n.01,vegetable.n.01,2.0,tomato.n.01 -> solanaceous_vegetable.n.01 -> vegetable.n.01,True,True,,synset_lemma,synset_hypernym_backoff,tomato,truck
+111,organ,keyboard instrument,True,organ.n.05,keyboard_instrument.n.01,1.0,organ.n.05 -> keyboard_instrument.n.01,True,True,,synset_hypernym_backoff,synset_lemma,instrument,instrument
+112,space shuttle,spacecraft,True,space_shuttle.n.01,spacecraft.n.01,1.0,space_shuttle.n.01 -> spacecraft.n.01,True,True,,synset_lemma,synset_lemma,space shuttle,vehicle
+113,residential building,building,True,building.n.01,building.n.01,0.0,building.n.01,True,True,,synset_lemma,synset_lemma,building,building
+114,cucumber,vegetable,True,cucumber.n.02,vegetable.n.01,1.0,cucumber.n.02 -> vegetable.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,truck,truck
+115,helicopter,aircraft,True,helicopter.n.01,aircraft.n.01,2.0,helicopter.n.01 -> heavier-than-air_craft.n.01 -> aircraft.n.01,True,True,,synset_lemma,synset_hypernym_backoff,helicopter,vehicle
+116,pants,lower body clothing,True,trouser.n.01,clothing.n.01,2.0,trouser.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_hypernym_backoff,synset_lemma,clothing,clothing
+117,pasta,grain product,False,,,,,True,False,,wn_hypernym_backoff,unk,food,
+118,sheep,mammal,True,sheep.n.01,mammal.n.01,6.0,sheep.n.01 -> bovid.n.01 -> ruminant.n.01 -> even-toed_ungulate.n.01 -> ungulate.n.01 -> placental.n.01 -> mammal.n.01,True,True,,unk,synset_hypernym_backoff,,animal
+119,chisel,hand tool,False,,,,,True,True,,direct_key,token_average_surface,chisel,
+120,harpsichord,keyboard instrument,True,harpsichord.n.01,keyboard_instrument.n.01,2.0,harpsichord.n.01 -> clavier.n.02 -> keyboard_instrument.n.01,True,True,,synset_lemma,synset_lemma,harpsichord,instrument
+121,piccolo,woodwind,True,piccolo.n.01,woodwind.n.01,2.0,piccolo.n.01 -> flute.n.01 -> woodwind.n.01,True,True,,synset_hypernym_backoff,synset_lemma,flute,instrument
+122,library,educational building,True,library.n.05,building.n.01,1.0,library.n.05 -> building.n.01,True,True,,synset_lemma,synset_lemma,library,building
+123,truck,road vehicle,True,hand_truck.n.01,vehicle.n.01,3.0,hand_truck.n.01 -> handcart.n.01 -> wheeled_vehicle.n.01 -> vehicle.n.01,True,True,,synset_lemma,synset_lemma,truck,vehicle
+124,animal,physical object,True,animal.n.01,object.n.01,4.0,animal.n.01 -> organism.n.01 -> living_thing.n.01 -> whole.n.02 -> object.n.01,True,True,,synset_lemma,synset_lemma,animal,physical object
+125,file,hand tool,True,file.n.04,hand_tool.n.01,1.0,file.n.04 -> hand_tool.n.01,True,True,,synset_lemma,synset_lemma,file,tool
+126,footwear,clothing,True,footwear.n.01,clothing.n.01,1.0,footwear.n.01 -> clothing.n.01,True,True,,synset_hypernym_backoff,synset_lemma,clothing,clothing
+127,christmas cactus,cactus,True,cactus.n.01,cactus.n.01,0.0,cactus.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+128,grape,fruit,True,grape.n.01,fruit.n.01,2.0,grape.n.01 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_lemma,synset_hypernym_backoff,grape,plant
+129,sausage,meat,True,sausage.n.01,meat.n.01,1.0,sausage.n.01 -> meat.n.01,True,True,,synset_lemma,synset_hypernym_backoff,sausage,food
+130,monorail,rail vehicle,False,,,,,True,True,,direct_key,token_average_surface,monorail,
+131,ruler,measuring tool,False,,,,,True,True,,direct_key,token_average_surface,ruler,
+132,industrial building,building,True,building.n.01,building.n.01,0.0,building.n.01,True,True,,synset_lemma,synset_lemma,building,building
+133,potato,vegetable,True,potato.n.01,vegetable.n.01,2.0,potato.n.01 -> solanaceous_vegetable.n.01 -> vegetable.n.01,True,True,,synset_lemma,synset_hypernym_backoff,potato,truck
+134,zebra,mammal,True,zebra.n.01,mammal.n.01,5.0,zebra.n.01 -> equine.n.01 -> odd-toed_ungulate.n.01 -> ungulate.n.01 -> placental.n.01 -> mammal.n.01,True,True,,unk,synset_hypernym_backoff,,animal
+135,bread,grain product,False,,,,,True,False,,wn_hypernym_backoff,unk,food,
+136,spacecraft,vehicle,True,spacecraft.n.01,vehicle.n.01,2.0,spacecraft.n.01 -> craft.n.02 -> vehicle.n.01,True,True,,synset_lemma,synset_lemma,vehicle,vehicle
+137,probe,spacecraft,False,,,,,True,True,,direct_key,wn_lemma,probe,vehicle
+138,coat,upper body clothing,True,coat.n.01,clothing.n.01,3.0,coat.n.01 -> overgarment.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_hypernym_backoff,synset_lemma,clothing,clothing
+139,apple,fruit,True,apple.n.01,fruit.n.01,2.0,apple.n.01 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+140,hand drill,hand tool,True,hand.n.01,hand.n.01,0.0,hand.n.01,True,True,,wn_hypernym_backoff,token_average_surface,tool,
+141,piano,keyboard instrument,True,piano.n.01,keyboard_instrument.n.01,1.0,piano.n.01 -> keyboard_instrument.n.01,True,True,,synset_lemma,synset_lemma,piano,instrument
+142,beanie,headwear,False,,,,,True,False,,direct_key,unk,beanie,
+143,cymbals,percussion instrument,True,cymbal.n.01,percussion_instrument.n.01,1.0,cymbal.n.01 -> percussion_instrument.n.01,True,True,,synset_hypernym_backoff,synset_lemma,instrument,instrument
+144,dessert,food,True,dessert.n.01,food.n.01,3.0,dessert.n.01 -> course.n.07 -> nutriment.n.01 -> food.n.01,True,True,,synset_hypernym_backoff,synset_lemma,food,food
+145,cello,string instrument,True,cello.n.01,bowed_stringed_instrument.n.01,1.0,cello.n.01 -> bowed_stringed_instrument.n.01,True,True,,synset_hypernym_backoff,synset_lemma,instrument,instrument
+146,cream,dairy product,True,cream.n.02,dairy_product.n.01,1.0,cream.n.02 -> dairy_product.n.01,True,True,,synset_lemma,synset_hypernym_backoff,cream,food
+147,fly,insect,True,fly.n.01,insect.n.01,2.0,fly.n.01 -> dipterous_insect.n.01 -> insect.n.01,True,True,,synset_lemma,synset_hypernym_backoff,fly,animal
+148,lower body clothing,clothing,True,clothing.n.01,clothing.n.01,0.0,clothing.n.01,True,True,,synset_lemma,synset_lemma,clothing,clothing
+149,screwdriver,hand tool,True,screwdriver.n.01,hand_tool.n.01,1.0,screwdriver.n.01 -> hand_tool.n.01,True,True,,synset_lemma,synset_lemma,screwdriver,tool
+150,shirt,upper body clothing,True,shirt.n.01,clothing.n.01,2.0,shirt.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_lemma,synset_lemma,shirt,clothing
+151,pudding,dessert,True,pudding.n.02,dessert.n.01,1.0,pudding.n.02 -> dessert.n.01,True,True,,synset_lemma,synset_hypernym_backoff,pudding,food
+152,pie,dessert,False,,,,,True,True,,direct_key,wn_hypernym_backoff,pie,food
+153,shorts,lower body clothing,True,short_pants.n.01,clothing.n.01,3.0,short_pants.n.01 -> trouser.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_lemma,synset_lemma,shorts,clothing
+154,bird,animal,True,bird.n.01,animal.n.01,3.0,bird.n.01 -> vertebrate.n.01 -> chordate.n.01 -> animal.n.01,True,True,,synset_hypernym_backoff,synset_lemma,animal,animal
+155,taxi,road vehicle,True,cab.n.03,vehicle.n.01,5.0,cab.n.03 -> car.n.01 -> motor_vehicle.n.01 -> self-propelled_vehicle.n.01 -> wheeled_vehicle.n.01 -> vehicle.n.01,True,True,,synset_lemma,synset_lemma,taxi,vehicle
+156,micrometer,measuring tool,False,,,,,True,True,,direct_key,token_average_surface,micrometer,
+157,trumpet,brass instrument,True,cornet.n.01,brass.n.02,1.0,cornet.n.01 -> brass.n.02,True,True,,synset_lemma,synset_lemma,cornet,instrument
+158,sneakers,footwear,True,gym_shoe.n.01,footwear.n.02,2.0,gym_shoe.n.01 -> shoe.n.01 -> footwear.n.02,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,physical object,physical object
+159,canoe,watercraft,True,canoe.n.01,vessel.n.02,3.0,canoe.n.01 -> small_boat.n.01 -> boat.n.01 -> vessel.n.02,True,True,,synset_lemma,synset_hypernym_backoff,canoe,vehicle
+160,willow,tree,True,willow.n.01,tree.n.01,1.0,willow.n.01 -> tree.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+161,mallet,hand tool,True,mallet.n.03,hand_tool.n.01,2.0,mallet.n.03 -> hammer.n.02 -> hand_tool.n.01,True,True,,synset_lemma,synset_lemma,mallet,tool
+162,belt,accessory,True,belt.n.02,accessory.n.01,1.0,belt.n.02 -> accessory.n.01,True,True,,synset_lemma,synset_hypernym_backoff,belt,clothing
+163,english horn,woodwind,True,english_horn.n.01,woodwind.n.01,3.0,english_horn.n.01 -> double-reed_instrument.n.01 -> beating-reed_instrument.n.01 -> woodwind.n.01,True,True,,synset_lemma,synset_lemma,english horn,instrument
+164,string instrument,instrument,False,,,,,True,True,,token_average_surface,direct_key,,instrument
+165,saxophone,woodwind,True,sax.n.02,woodwind.n.01,3.0,sax.n.02 -> single-reed_instrument.n.01 -> beating-reed_instrument.n.01 -> woodwind.n.01,True,True,,synset_lemma,synset_lemma,saxophone,instrument
+166,leggings,lower body clothing,True,legging.n.01,clothing.n.01,2.0,legging.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_hypernym_backoff,synset_lemma,clothing,clothing
+167,high heels,footwear,False,,,,,False,True,,unk,wn_hypernym_backoff,,clothing
+168,tortoise,reptile,True,tortoise.n.01,reptile.n.01,4.0,tortoise.n.01 -> turtle.n.02 -> chelonian.n.01 -> anapsid.n.01 -> reptile.n.01,True,True,,synset_lemma,synset_hypernym_backoff,tortoise,animal
+169,tree,plant,True,tree.n.01,plant.n.02,3.0,tree.n.01 -> woody_plant.n.01 -> vascular_plant.n.01 -> plant.n.02,True,True,,synset_hypernym_backoff,synset_lemma,plant,plant
+170,airliner,aircraft,True,airliner.n.01,aircraft.n.01,3.0,airliner.n.01 -> airplane.n.01 -> heavier-than-air_craft.n.01 -> aircraft.n.01,True,True,,synset_lemma,synset_hypernym_backoff,airliner,vehicle
+171,pine,tree,True,pine.n.01,tree.n.01,3.0,pine.n.01 -> conifer.n.01 -> gymnospermous_tree.n.01 -> tree.n.01,True,True,,synset_lemma,synset_hypernym_backoff,pine,plant
+172,sweater,upper body clothing,True,sweater.n.01,clothing.n.01,2.0,sweater.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_lemma,synset_lemma,sweater,clothing
+173,percussion instrument,instrument,False,,,,,True,True,,token_average_surface,direct_key,,instrument
+174,trout,fish,True,trout.n.01,fish.n.02,1.0,trout.n.01 -> fish.n.02,True,True,,synset_lemma,synset_hypernym_backoff,trout,food
+175,ice cream,dessert,True,ice_cream.n.01,dessert.n.01,2.0,ice_cream.n.01 -> frozen_dessert.n.01 -> dessert.n.01,True,True,,synset_lemma,synset_hypernym_backoff,ice cream,food
+176,tree fern,fern,True,fern.n.01,fern.n.01,0.0,fern.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+177,cabbage,vegetable,True,cabbage.n.01,vegetable.n.01,2.0,cabbage.n.01 -> cruciferous_vegetable.n.01 -> vegetable.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,truck,truck
+178,pepper,vegetable,True,pepper.n.04,vegetable.n.01,2.0,pepper.n.04 -> solanaceous_vegetable.n.01 -> vegetable.n.01,True,True,,synset_lemma,synset_hypernym_backoff,pepper,truck
+179,harp,string instrument,False,,,,,True,True,,direct_key,token_average_surface,harp,
+180,tuna,fish,True,tuna.n.03,fish.n.01,2.0,tuna.n.03 -> food_fish.n.01 -> fish.n.01,True,True,,synset_lemma,synset_hypernym_backoff,tuna,animal
+181,bungalow,residential building,True,bungalow.n.01,building.n.01,2.0,bungalow.n.01 -> house.n.01 -> building.n.01,True,True,,synset_lemma,synset_lemma,bungalow,building
+182,mosque,religious building,True,mosque.n.01,building.n.01,2.0,mosque.n.01 -> place_of_worship.n.01 -> building.n.01,True,True,,synset_lemma,synset_lemma,mosque,building
+183,motorcycle,road vehicle,True,motorcycle.n.01,vehicle.n.01,4.0,motorcycle.n.01 -> motor_vehicle.n.01 -> self-propelled_vehicle.n.01 -> wheeled_vehicle.n.01 -> vehicle.n.01,True,True,,synset_lemma,synset_lemma,motorcycle,vehicle
+184,car,road vehicle,True,car.n.02,vehicle.n.01,2.0,car.n.02 -> wheeled_vehicle.n.01 -> vehicle.n.01,True,True,,synset_lemma,synset_lemma,car,vehicle
+185,pear,fruit,True,pear.n.01,fruit.n.01,2.0,pear.n.01 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_lemma,synset_hypernym_backoff,pear,plant
+186,power tool,tool,True,power_tool.n.01,tool.n.01,1.0,power_tool.n.01 -> tool.n.01,True,True,,synset_lemma,synset_lemma,tool,tool
+187,gardening tool,tool,True,tool.n.01,tool.n.01,0.0,tool.n.01,True,True,,synset_lemma,synset_lemma,tool,tool
+188,slippers,footwear,True,slipper.n.01,footwear.n.02,1.0,slipper.n.01 -> footwear.n.02,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,physical object,physical object
+189,space station,spacecraft,False,,,,,True,True,,wn_hypernym_backoff,wn_lemma,physical object,vehicle
+190,maidenhair fern,fern,True,fern.n.01,fern.n.01,0.0,fern.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+191,gloves,accessory,False,,,,,True,True,,direct_key,wn_hypernym_backoff,gloves,clothing
+192,utility knife,hand tool,False,,,,,True,True,,direct_key,token_average_surface,utility knife,
+193,caliper,measuring tool,False,,,,,True,True,,direct_key,token_average_surface,caliper,
+194,marimba,percussion instrument,True,marimba.n.01,percussion_instrument.n.01,1.0,marimba.n.01 -> percussion_instrument.n.01,True,True,,synset_lemma,synset_lemma,marimba,instrument
+195,bamboo,grass,False,,,,,True,True,,direct_key,wn_hypernym_backoff,bamboo,plant
+196,commercial building,building,True,building.n.01,building.n.01,0.0,building.n.01,True,True,,synset_lemma,synset_lemma,building,building
+197,ukulele,string instrument,False,,,,,True,True,,direct_key,token_average_surface,ukulele,
+198,villa,residential building,True,villa.n.02,building.n.01,2.0,villa.n.02 -> house.n.01 -> building.n.01,True,True,,synset_hypernym_backoff,synset_lemma,house,building
+199,beef,meat,True,beef.n.02,meat.n.01,1.0,beef.n.02 -> meat.n.01,True,True,,synset_lemma,synset_hypernym_backoff,beef,food
+200,milk,dairy product,True,milk.n.01,dairy_product.n.01,1.0,milk.n.01 -> dairy_product.n.01,True,True,,unk,synset_hypernym_backoff,,food
+201,ant,insect,True,ant.n.01,insect.n.01,2.0,ant.n.01 -> hymenopterous_insect.n.01 -> insect.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+202,flamingo,bird,True,flamingo.n.01,bird.n.01,3.0,flamingo.n.01 -> wading_bird.n.01 -> aquatic_bird.n.01 -> bird.n.01,True,True,,synset_lemma,synset_hypernym_backoff,flamingo,animal
+203,saguaro,cactus,True,saguaro.n.01,cactus.n.01,1.0,saguaro.n.01 -> cactus.n.01,True,True,,synset_lemma,synset_hypernym_backoff,saguaro,plant
+204,cottage,residential building,True,bungalow.n.01,building.n.01,2.0,bungalow.n.01 -> house.n.01 -> building.n.01,True,True,,synset_lemma,synset_lemma,bungalow,building
+205,insect,animal,True,insect.n.01,animal.n.01,3.0,insect.n.01 -> arthropod.n.01 -> invertebrate.n.01 -> animal.n.01,True,True,,synset_hypernym_backoff,synset_lemma,animal,animal
+206,oboe,woodwind,True,oboe.n.01,woodwind.n.01,3.0,oboe.n.01 -> double-reed_instrument.n.01 -> beating-reed_instrument.n.01 -> woodwind.n.01,True,True,,synset_lemma,synset_lemma,oboe,instrument
+207,skirt,lower body clothing,True,skirt.n.02,clothing.n.01,2.0,skirt.n.02 -> garment.n.01 -> clothing.n.01,True,True,,synset_hypernym_backoff,synset_lemma,clothing,clothing
+208,mango,fruit,True,mango.n.02,fruit.n.01,2.0,mango.n.02 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_lemma,synset_hypernym_backoff,mango,plant
+209,dog,mammal,True,dog.n.01,mammal.n.01,4.0,dog.n.01 -> canine.n.02 -> carnivore.n.01 -> placental.n.01 -> mammal.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+210,cookie,dessert,False,,,,,True,True,,wn_hypernym_backoff,wn_hypernym_backoff,cake,food
+211,hawk,bird,True,hawk.n.01,bird.n.01,2.0,hawk.n.01 -> bird_of_prey.n.01 -> bird.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+212,gong,percussion instrument,True,gong.n.01,percussion_instrument.n.01,1.0,gong.n.01 -> percussion_instrument.n.01,True,True,,synset_hypernym_backoff,synset_lemma,instrument,instrument
+213,warehouse,industrial building,False,,,,,True,True,,direct_key,token_average_surface,warehouse,
+214,t-shirt,upper body clothing,True,jersey.n.03,clothing.n.01,3.0,jersey.n.03 -> shirt.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_lemma,synset_lemma,t-shirt,clothing
+215,owl,bird,True,owl.n.01,bird.n.01,2.0,owl.n.01 -> bird_of_prey.n.01 -> bird.n.01,True,True,,synset_lemma,synset_hypernym_backoff,owl,animal
+216,church,religious building,True,church.n.02,building.n.01,2.0,church.n.02 -> place_of_worship.n.01 -> building.n.01,True,True,,synset_lemma,synset_lemma,church,building
+217,jigsaw,power tool,True,saber_saw.n.01,power_tool.n.01,2.0,saber_saw.n.01 -> power_saw.n.01 -> power_tool.n.01,True,True,,synset_lemma,synset_lemma,jigsaw,tool
+218,bass drum,percussion instrument,True,bass_drum.n.01,percussion_instrument.n.01,2.0,bass_drum.n.01 -> drum.n.01 -> percussion_instrument.n.01,True,True,,synset_lemma,synset_lemma,bass drum,instrument
+219,butter,dairy product,True,butter.n.01,dairy_product.n.01,1.0,butter.n.01 -> dairy_product.n.01,True,True,,synset_lemma,synset_hypernym_backoff,butter,food
+220,flute,woodwind,True,flute.n.01,woodwind.n.01,1.0,flute.n.01 -> woodwind.n.01,True,True,,synset_lemma,synset_lemma,flute,instrument
+221,vehicle,physical object,True,fomite.n.01,object.n.01,1.0,fomite.n.01 -> object.n.01,True,True,,synset_lemma,synset_lemma,vehicle,physical object
+222,fruit,food,False,,,,,True,True,,wn_hypernym_backoff,direct_key,plant,food
+223,spirit level,measuring tool,False,,,,,True,True,,direct_key,token_average_surface,spirit level,
+224,jeans,lower body clothing,True,jean.n.01,clothing.n.01,3.0,jean.n.01 -> workwear.n.01 -> apparel.n.01 -> clothing.n.01,True,True,,synset_hypernym_backoff,synset_lemma,clothing,clothing
+225,watercraft,vehicle,True,vessel.n.02,vehicle.n.01,2.0,vessel.n.02 -> craft.n.02 -> vehicle.n.01,True,True,,synset_hypernym_backoff,synset_lemma,vehicle,vehicle
+226,rose,flowering plant,True,rose.n.01,plant.n.02,4.0,rose.n.01 -> shrub.n.01 -> woody_plant.n.01 -> vascular_plant.n.01 -> plant.n.02,True,True,,synset_lemma,synset_lemma,rose,plant
+227,factory,industrial building,False,,,,,True,True,,direct_key,token_average_surface,factory,
+228,lander,spacecraft,True,lander.n.02,spacecraft.n.01,1.0,lander.n.02 -> spacecraft.n.01,True,True,,synset_lemma,synset_lemma,lander,vehicle
+229,eagle,bird,True,eagle.n.01,bird.n.01,2.0,eagle.n.01 -> bird_of_prey.n.01 -> bird.n.01,True,True,,synset_lemma,synset_hypernym_backoff,eagle,animal
+230,violin,string instrument,True,violin.n.01,bowed_stringed_instrument.n.01,1.0,violin.n.01 -> bowed_stringed_instrument.n.01,True,True,,synset_lemma,synset_lemma,violin,instrument
+231,blouse,upper body clothing,True,blouse.n.01,clothing.n.01,3.0,blouse.n.01 -> top.n.10 -> woman's_clothing.n.01 -> clothing.n.01,True,True,,synset_lemma,synset_lemma,blouse,clothing
+232,food,physical object,False,,,,,True,True,,direct_key,direct_key,food,physical object
+233,grasshopper,insect,True,grasshopper.n.01,insect.n.01,2.0,grasshopper.n.01 -> orthopterous_insect.n.01 -> insect.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+234,cornet,brass instrument,True,cornet.n.01,brass.n.02,1.0,cornet.n.01 -> brass.n.02,True,True,,synset_lemma,synset_lemma,cornet,instrument
+235,violet,flowering plant,True,violet.n.01,plant.n.02,4.0,violet.n.01 -> viola.n.01 -> herb.n.01 -> vascular_plant.n.01 -> plant.n.02,True,True,,synset_hypernym_backoff,synset_lemma,viola,plant
+236,banjo,string instrument,False,,,,,True,True,,direct_key,token_average_surface,banjo,
+237,pliers,hand tool,True,pliers.n.01,hand_tool.n.01,1.0,pliers.n.01 -> hand_tool.n.01,True,True,,synset_lemma,synset_lemma,pliers,tool
+238,xylophone,percussion instrument,True,marimba.n.01,percussion_instrument.n.01,1.0,marimba.n.01 -> percussion_instrument.n.01,True,True,,synset_lemma,synset_lemma,marimba,instrument
+239,parrot,bird,True,parrot.n.01,bird.n.01,1.0,parrot.n.01 -> bird.n.01,True,True,,synset_lemma,synset_hypernym_backoff,parrot,animal
+240,tie,accessory,False,,,,,True,True,,direct_key,wn_hypernym_backoff,tie,clothing
+241,trowel,gardening tool,True,trowel.n.01,tool.n.01,2.0,trowel.n.01 -> hand_tool.n.01 -> tool.n.01,True,True,,synset_lemma,synset_lemma,trowel,tool
+242,biplane,aircraft,True,biplane.n.01,aircraft.n.01,3.0,biplane.n.01 -> airplane.n.01 -> heavier-than-air_craft.n.01 -> aircraft.n.01,True,True,,synset_lemma,synset_hypernym_backoff,biplane,vehicle
+243,spinach,vegetable,True,spinach.n.01,vegetable.n.02,1.0,spinach.n.01 -> vegetable.n.02,True,True,,synset_lemma,synset_hypernym_backoff,spinach,plant
+244,sitar,string instrument,False,,,,,True,True,,wn_hypernym_backoff,token_average_surface,instrument,
+245,turtle,reptile,True,turtle.n.02,reptile.n.01,3.0,turtle.n.02 -> chelonian.n.01 -> anapsid.n.01 -> reptile.n.01,True,True,,synset_lemma,synset_hypernym_backoff,turtle,animal
+246,power drill,power tool,True,power.n.01,power.n.01,0.0,power.n.01,True,True,,direct_key,token_average_surface,power drill,
+247,monkey,mammal,True,monkey.n.01,mammal.n.01,3.0,monkey.n.01 -> primate.n.02 -> placental.n.01 -> mammal.n.01,True,True,,synset_lemma,synset_hypernym_backoff,monkey,animal
+248,angle grinder,power tool,False,,,,,True,True,,direct_key,token_average_surface,angle grinder,
+249,iguana,reptile,True,common_iguana.n.01,reptile.n.01,5.0,common_iguana.n.01 -> iguanid.n.01 -> lizard.n.01 -> saurian.n.01 -> diapsid.n.01 -> reptile.n.01,True,True,,synset_lemma,synset_hypernym_backoff,iguana,animal
+250,onion,vegetable,True,onion.n.03,vegetable.n.01,1.0,onion.n.03 -> vegetable.n.01,True,True,,synset_lemma,synset_hypernym_backoff,onion,truck
+251,sander,power tool,True,drum_sander.n.01,power_tool.n.01,1.0,drum_sander.n.01 -> power_tool.n.01,True,True,,synset_hypernym_backoff,synset_lemma,tool,tool
+252,mandolin,string instrument,False,,,,,True,True,,direct_key,token_average_surface,mandolin,
+253,beetle,insect,True,beetle.n.01,insect.n.01,1.0,beetle.n.01 -> insect.n.01,True,True,,synset_lemma,synset_hypernym_backoff,beetle,animal
+254,boots,footwear,True,boot.n.01,footwear.n.02,1.0,boot.n.01 -> footwear.n.02,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,physical object,physical object
+255,cheese,dairy product,True,cheese.n.01,dairy_product.n.01,1.0,cheese.n.01 -> dairy_product.n.01,True,True,,synset_lemma,synset_hypernym_backoff,cheese,food
+256,cow,mammal,True,cow.n.02,mammal.n.01,2.0,cow.n.02 -> placental.n.01 -> mammal.n.01,True,True,,synset_lemma,synset_hypernym_backoff,cow,animal
+257,wrench,hand tool,True,wrench.n.03,hand_tool.n.01,1.0,wrench.n.03 -> hand_tool.n.01,True,True,,synset_lemma,synset_lemma,wrench,tool
+258,shark,fish,True,shark.n.01,fish.n.01,3.0,shark.n.01 -> elasmobranch.n.01 -> cartilaginous_fish.n.01 -> fish.n.01,True,True,,synset_lemma,synset_hypernym_backoff,shark,animal
+259,euphonium,brass instrument,True,euphonium.n.01,brass.n.02,2.0,euphonium.n.01 -> bass_horn.n.01 -> brass.n.02,True,True,,synset_lemma,synset_lemma,euphonium,instrument
+260,daffodil,flowering plant,True,daffodil.n.01,plant.n.02,4.0,daffodil.n.01 -> narcissus.n.01 -> bulbous_plant.n.01 -> vascular_plant.n.01 -> plant.n.02,True,True,,synset_hypernym_backoff,synset_lemma,plant,plant
+261,broccoli,vegetable,True,broccoli.n.02,vegetable.n.01,2.0,broccoli.n.02 -> cruciferous_vegetable.n.01 -> vegetable.n.01,True,True,,synset_lemma,synset_hypernym_backoff,broccoli,truck
+262,lettuce,vegetable,True,lettuce.n.03,vegetable.n.01,3.0,lettuce.n.03 -> salad_green.n.01 -> greens.n.01 -> vegetable.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,truck,truck
+263,dolphin,mammal,True,dolphin.n.02,mammal.n.01,6.0,dolphin.n.02 -> toothed_whale.n.01 -> whale.n.02 -> cetacean.n.01 -> aquatic_mammal.n.01 -> placental.n.01 -> mammal.n.01,True,True,,unk,synset_hypernym_backoff,,animal
+264,cardigan,upper body clothing,True,cardigan.n.01,clothing.n.01,3.0,cardigan.n.01 -> sweater.n.01 -> garment.n.01 -> clothing.n.01,True,True,,synset_lemma,synset_lemma,cardigan,clothing
+265,rail vehicle,vehicle,False,,,,,True,True,,token_average_surface,direct_key,,vehicle
+266,recorder,woodwind,False,,,,,True,True,,direct_key,wn_lemma,recorder,instrument
+267,fir,tree,True,fir.n.02,tree.n.01,3.0,fir.n.02 -> conifer.n.01 -> gymnospermous_tree.n.01 -> tree.n.01,True,True,,synset_lemma,synset_hypernym_backoff,fir,plant
+268,cake,dessert,False,,,,,True,True,,direct_key,wn_hypernym_backoff,cake,food
+269,brownie,dessert,False,,,,,False,True,,unk,wn_hypernym_backoff,,food
+270,pruning shears,gardening tool,True,shears.n.01,tool.n.01,5.0,shears.n.01 -> scissors.n.01 -> edge_tool.n.01 -> cutter.n.06 -> cutting_implement.n.01 -> tool.n.01,True,True,,direct_key,synset_lemma,pruning shears,tool
+271,submarine,watercraft,True,submarine.n.01,vessel.n.02,4.0,submarine.n.01 -> submersible.n.02 -> warship.n.01 -> ship.n.01 -> vessel.n.02,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,vehicle,vehicle
+272,lawn grass,grass,True,grass.n.01,grass.n.01,0.0,grass.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+273,woodwind,instrument,False,,,,,True,True,,wn_lemma,direct_key,instrument,instrument
+274,sunflower,flowering plant,True,sunflower.n.01,angiosperm.n.01,2.0,sunflower.n.01 -> flower.n.01 -> angiosperm.n.01,True,True,,synset_lemma,synset_lemma,sunflower,plant
+275,flugelhorn,brass instrument,True,flugelhorn.n.01,brass.n.02,1.0,flugelhorn.n.01 -> brass.n.02,True,True,,synset_hypernym_backoff,synset_lemma,instrument,instrument
+276,brass instrument,instrument,False,,,,,True,True,,token_average_surface,direct_key,,instrument
+277,shoes,footwear,True,shoe.n.01,footwear.n.02,1.0,shoe.n.01 -> footwear.n.02,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,physical object,physical object
+278,coach,road vehicle,True,passenger_car.n.01,vehicle.n.01,3.0,passenger_car.n.01 -> car.n.02 -> wheeled_vehicle.n.01 -> vehicle.n.01,True,True,,synset_lemma,synset_lemma,car,vehicle
+279,carrot,vegetable,True,carrot.n.03,vegetable.n.01,2.0,carrot.n.03 -> root_vegetable.n.01 -> vegetable.n.01,True,True,,synset_lemma,synset_hypernym_backoff,carrot,truck
+280,physical object,entity,True,object.n.01,entity.n.01,2.0,object.n.01 -> physical_entity.n.01 -> entity.n.01,True,True,,synset_lemma,unk,physical object,
+281,cathedral,religious building,True,cathedral.n.01,building.n.01,3.0,cathedral.n.01 -> church.n.02 -> place_of_worship.n.01 -> building.n.01,True,True,,synset_lemma,synset_lemma,cathedral,building
+282,yogurt,dairy product,True,yogurt.n.01,dairy_product.n.01,1.0,yogurt.n.01 -> dairy_product.n.01,True,True,,synset_lemma,synset_hypernym_backoff,yogurt,food
+283,guitar,string instrument,False,,,,,True,True,,direct_key,token_average_surface,guitar,
+284,scooter,road vehicle,True,scooter.n.02,vehicle.n.01,2.0,scooter.n.02 -> wheeled_vehicle.n.01 -> vehicle.n.01,True,True,,synset_lemma,synset_lemma,scooter,vehicle
+285,banana,fruit,True,banana.n.02,fruit.n.01,2.0,banana.n.02 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+286,sandals,footwear,True,sandal.n.01,footwear.n.02,2.0,sandal.n.01 -> shoe.n.01 -> footwear.n.02,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,physical object,physical object
+287,chicken,meat,True,chicken.n.01,meat.n.01,3.0,chicken.n.01 -> poultry.n.02 -> bird.n.02 -> meat.n.01,True,True,,synset_lemma,synset_hypernym_backoff,chicken,food
+288,orchid,flowering plant,True,orchid.n.01,angiosperm.n.01,2.0,orchid.n.01 -> flower.n.01 -> angiosperm.n.01,True,True,,synset_lemma,synset_lemma,orchid,plant
+289,strawberry,fruit,True,strawberry.n.01,fruit.n.01,3.0,strawberry.n.01 -> berry.n.01 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_lemma,synset_hypernym_backoff,strawberry,plant
+290,shopping mall,commercial building,False,,,,,True,True,,direct_key,token_average_surface,shopping mall,
+291,poppy,flowering plant,True,poppy.n.01,angiosperm.n.01,2.0,poppy.n.01 -> flower.n.01 -> angiosperm.n.01,True,True,,synset_lemma,synset_lemma,poppy,plant
+292,van,road vehicle,True,van.n.03,vehicle.n.01,3.0,van.n.03 -> car.n.02 -> wheeled_vehicle.n.01 -> vehicle.n.01,True,True,,synset_hypernym_backoff,synset_lemma,car,vehicle
+293,freight train,rail vehicle,False,,,,,True,True,,direct_key,token_average_surface,freight train,
+294,dairy product,food,True,dairy_product.n.01,food.n.01,2.0,dairy_product.n.01 -> foodstuff.n.02 -> food.n.01,True,True,,synset_hypernym_backoff,synset_lemma,food,food
+295,cactus,plant,True,cactus.n.01,plant.n.02,3.0,cactus.n.01 -> succulent.n.01 -> vascular_plant.n.01 -> plant.n.02,True,True,,synset_hypernym_backoff,synset_lemma,plant,plant
+296,hoe,gardening tool,True,hoe.n.01,tool.n.01,1.0,hoe.n.01 -> tool.n.01,True,True,,synset_lemma,synset_lemma,hoe,tool
+297,synthesizer,keyboard instrument,True,synthesizer.n.02,keyboard_instrument.n.01,1.0,synthesizer.n.02 -> keyboard_instrument.n.01,True,True,,synset_lemma,synset_lemma,synthesizer,instrument
+298,rake,gardening tool,True,rake.n.03,tool.n.01,1.0,rake.n.03 -> tool.n.01,True,True,,synset_lemma,synset_lemma,rake,tool
+299,orange,fruit,True,orange.n.01,fruit.n.01,3.0,orange.n.01 -> citrus.n.01 -> edible_fruit.n.01 -> fruit.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+300,trombone,brass instrument,True,trombone.n.01,brass.n.02,1.0,trombone.n.01 -> brass.n.02,True,True,,synset_hypernym_backoff,synset_lemma,instrument,instrument
+301,grass,plant,True,grass.n.01,plant.n.02,4.0,grass.n.01 -> gramineous_plant.n.01 -> herb.n.01 -> vascular_plant.n.01 -> plant.n.02,True,True,,synset_hypernym_backoff,synset_lemma,plant,plant
+302,prickly pear,cactus,True,prickly_pear.n.01,cactus.n.01,1.0,prickly_pear.n.01 -> cactus.n.01,True,True,,synset_lemma,synset_hypernym_backoff,prickly pear,plant
+303,measuring tool,tool,True,tool.n.01,tool.n.01,0.0,tool.n.01,True,True,,synset_lemma,synset_lemma,tool,tool
+304,wheatgrass,grass,True,wheatgrass.n.01,grass.n.01,1.0,wheatgrass.n.01 -> grass.n.01,True,True,,synset_lemma,synset_hypernym_backoff,wheatgrass,plant
+305,kayak,watercraft,True,kayak.n.01,vessel.n.02,4.0,kayak.n.01 -> canoe.n.01 -> small_boat.n.01 -> boat.n.01 -> vessel.n.02,True,True,,synset_lemma,synset_hypernym_backoff,kayak,vehicle
+306,vegetable,food,True,vegetable.n.01,food.n.02,2.0,vegetable.n.01 -> produce.n.01 -> food.n.02,True,True,,synset_hypernym_backoff,synset_lemma,truck,food
+307,french horn,brass instrument,True,french_horn.n.01,brass.n.02,1.0,french_horn.n.01 -> brass.n.02,True,True,,synset_lemma,synset_lemma,french horn,instrument
+308,crocodile,reptile,True,crocodile.n.01,reptile.n.01,3.0,crocodile.n.01 -> crocodilian_reptile.n.01 -> diapsid.n.01 -> reptile.n.01,True,True,,synset_lemma,synset_hypernym_backoff,crocodile,animal
+309,train,rail vehicle,False,,,,,True,True,,direct_key,token_average_surface,train,
+310,penguin,bird,True,penguin.n.01,bird.n.01,4.0,penguin.n.01 -> sphenisciform_seabird.n.01 -> seabird.n.01 -> aquatic_bird.n.01 -> bird.n.01,True,True,,synset_lemma,synset_hypernym_backoff,penguin,animal
+311,accessory,clothing,True,accessory.n.01,clothing.n.01,1.0,accessory.n.01 -> clothing.n.01,True,True,,synset_hypernym_backoff,synset_lemma,clothing,clothing
+312,horse,mammal,True,horse.n.01,mammal.n.01,5.0,horse.n.01 -> equine.n.01 -> odd-toed_ungulate.n.01 -> ungulate.n.01 -> placental.n.01 -> mammal.n.01,True,True,,synset_lemma,synset_hypernym_backoff,horse,animal
+313,reed,grass,False,,,,,True,True,,direct_key,wn_hypernym_backoff,reed,plant
+314,school,educational building,True,school.n.02,building.n.01,1.0,school.n.02 -> building.n.01,True,True,,synset_lemma,synset_lemma,school,building
+315,goat,mammal,True,goat.n.01,mammal.n.01,6.0,goat.n.01 -> bovid.n.01 -> ruminant.n.01 -> even-toed_ungulate.n.01 -> ungulate.n.01 -> placental.n.01 -> mammal.n.01,True,True,,synset_lemma,synset_hypernym_backoff,goat,animal
+316,cherry tree,tree,True,tree.n.01,tree.n.01,0.0,tree.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,plant,plant
+317,grain product,food,True,grain.n.02,food.n.01,2.0,grain.n.02 -> foodstuff.n.02 -> food.n.01,True,True,,synset_lemma,synset_lemma,food,food
+318,lily,flowering plant,True,lily.n.01,plant.n.02,4.0,lily.n.01 -> liliaceous_plant.n.01 -> bulbous_plant.n.01 -> vascular_plant.n.01 -> plant.n.02,True,True,,synset_lemma,synset_lemma,lily,plant
+319,religious building,building,True,building.n.01,building.n.01,0.0,building.n.01,True,True,,synset_lemma,synset_lemma,building,building
+320,lizard,reptile,True,lizard.n.01,reptile.n.01,3.0,lizard.n.01 -> saurian.n.01 -> diapsid.n.01 -> reptile.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,animal,animal
+321,apartment building,residential building,True,building.n.01,building.n.01,0.0,building.n.01,True,True,,synset_lemma,synset_lemma,building,building
+322,house,residential building,True,house.n.01,building.n.01,1.0,house.n.01 -> building.n.01,True,True,,synset_lemma,synset_lemma,house,building
+323,timpani,percussion instrument,True,kettle.n.04,percussion_instrument.n.01,1.0,kettle.n.04 -> percussion_instrument.n.01,True,True,,synset_lemma,synset_lemma,timpani,instrument
+324,circular saw,power tool,True,power_saw.n.01,power_tool.n.01,1.0,power_saw.n.01 -> power_tool.n.01,True,True,,synset_hypernym_backoff,synset_lemma,tool,tool
+325,university building,educational building,True,building.n.01,building.n.01,0.0,building.n.01,True,True,,synset_lemma,synset_lemma,building,building
+326,lion,mammal,True,lion.n.01,mammal.n.01,5.0,lion.n.01 -> big_cat.n.01 -> feline.n.01 -> carnivore.n.01 -> placental.n.01 -> mammal.n.01,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,cat,animal
+327,double bass,string instrument,True,bass_fiddle.n.01,bowed_stringed_instrument.n.01,1.0,bass_fiddle.n.01 -> bowed_stringed_instrument.n.01,True,True,,synset_lemma,synset_lemma,double bass,instrument
+328,turkey,meat,True,turkey.n.04,meat.n.01,3.0,turkey.n.04 -> poultry.n.02 -> bird.n.02 -> meat.n.01,True,True,,synset_lemma,synset_hypernym_backoff,turkey,food
+329,bass clarinet,woodwind,True,bass_clarinet.n.01,woodwind.n.01,4.0,bass_clarinet.n.01 -> clarinet.n.01 -> single-reed_instrument.n.01 -> beating-reed_instrument.n.01 -> woodwind.n.01,True,True,,synset_lemma,synset_lemma,bass clarinet,instrument
+330,tool,physical object,True,tool.n.01,object.n.01,5.0,tool.n.01 -> implement.n.01 -> instrumentality.n.03 -> artifact.n.01 -> whole.n.02 -> object.n.01,True,True,,synset_lemma,synset_lemma,tool,physical object
+331,ship,watercraft,True,ship.n.01,vessel.n.02,1.0,ship.n.01 -> vessel.n.02,True,True,,synset_hypernym_backoff,synset_hypernym_backoff,vehicle,vehicle

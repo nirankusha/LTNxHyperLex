@@ -1,0 +1,1132 @@
+epoch,split,label,hypo,hyper,katz,sat
+99,train_pos,1,supermarket,commercial building,0.0,0.9846674203872681
+99,train_pos,1,hand tool,tool,0.0,0.9047175645828247
+99,train_pos,1,peach,fruit,0.0,0.9897213578224182
+99,train_pos,1,pike,fish,0.0,0.9900741577148438
+99,train_pos,1,nail gun,power tool,0.0,0.9896172285079956
+99,train_pos,1,workshop,industrial building,0.0,0.9570180773735046
+99,train_pos,1,noodles,grain product,0.0,0.9721008539199829
+99,train_pos,1,tortilla,grain product,0.0,0.9937781095504761
+99,train_pos,1,store,commercial building,0.0,0.9776771664619446
+99,train_pos,1,flowering plant,plant,0.0,0.9288559556007385
+99,train_pos,1,fish,animal,0.0,0.9294449687004089
+99,train_pos,1,glider,aircraft,0.0,0.9813429713249207
+99,train_pos,1,aircraft,vehicle,0.0,0.9093409776687622
+99,train_pos,1,meat,food,0.0,0.9427644610404968
+99,train_pos,1,clothing,physical object,0.0,0.8980969190597534
+99,train_pos,1,ferry,watercraft,0.0,0.9796424508094788
+99,train_pos,1,plant,physical object,0.0,0.9192684888839722
+99,train_pos,1,oak,tree,0.0,0.9924740195274353
+99,train_pos,1,saw,hand tool,0.0,0.9962950348854065
+99,train_pos,1,scarf,accessory,0.0,0.9739611744880676
+99,train_pos,1,salmon,fish,0.0,0.9662978053092957
+99,train_pos,1,bacon,meat,0.0,0.9953218102455139
+99,train_pos,1,viola,string instrument,0.0,0.9882728457450867
+99,train_pos,1,road vehicle,vehicle,0.0,0.9008883237838745
+99,train_pos,1,mosquito,insect,0.0,0.9650789499282837
+99,train_pos,1,trousers,lower body clothing,0.0,0.976617693901062
+99,train_pos,1,moth,insect,0.0,0.9774667620658875
+99,train_pos,1,airplane,aircraft,0.0,0.9957310557365417
+99,train_pos,1,bat,mammal,0.0,0.9953488707542419
+99,train_pos,1,synagogue,religious building,0.0,0.9903782606124878
+99,train_pos,1,power plant,industrial building,0.0,0.9788179397583008
+99,train_pos,1,cereal,grain product,0.0,0.9705873727798462
+99,train_pos,1,lecture hall,educational building,0.0,0.9843972325325012
+99,train_pos,1,bassoon,woodwind,0.0,0.9875810146331787
+99,train_pos,1,sailboat,watercraft,0.0,0.980562150478363
+99,train_pos,1,cap,headwear,0.0,0.9688619375228882
+99,train_pos,1,cat,mammal,0.0,0.9745532870292664
+99,train_pos,1,bus,road vehicle,0.0,0.9955905675888062
+99,train_pos,1,wasp,insect,0.0,0.9947781562805176
+99,train_pos,1,tulip,flowering plant,0.0,0.9954848289489746
+99,train_pos,1,helmet,headwear,0.0,0.9940396547317505
+99,train_pos,1,reptile,animal,0.0,0.9209497570991516
+99,train_pos,1,seagull,bird,0.0,0.9604819416999817
+99,train_pos,1,rocket,spacecraft,0.0,0.9788055419921875
+99,train_pos,1,tram,rail vehicle,0.0,0.9761310815811157
+99,train_pos,1,sparrow,bird,0.0,0.9960137605667114
+99,train_pos,1,fern,plant,0.0,0.9081445932388306
+99,train_pos,1,temple,religious building,0.0,0.9598968625068665
+99,train_pos,1,yacht,watercraft,0.0,0.9955494403839111
+99,train_pos,1,maple,tree,0.0,0.9925329685211182
+99,train_pos,1,kiwi,fruit,0.0,0.9609321355819702
+99,train_pos,1,blueberry,fruit,0.0,0.9897083044052124
+99,train_pos,1,bugle,brass instrument,0.0,0.9960296154022217
+99,train_pos,1,mammal,animal,0.0,0.9244771003723145
+99,train_pos,1,instrument,physical object,0.0,0.9306384921073914
+99,train_pos,1,lawn mower,gardening tool,0.0,0.9796465039253235
+99,train_pos,1,alto saxophone,woodwind,0.0,0.9969303011894226
+99,train_pos,1,boat,watercraft,0.0,0.971152126789093
+99,train_pos,1,building,physical object,0.0,0.9385164380073547
+99,train_pos,1,beret,headwear,0.0,0.9688970446586609
+99,train_pos,1,dragonfly,insect,0.0,0.9948964715003967
+99,train_pos,1,hat,headwear,0.0,0.9792081713676453
+99,train_pos,1,rice,grain product,0.0,0.9575627446174622
+99,train_pos,1,jet,aircraft,0.0,0.9957406520843506
+99,train_pos,1,plum,fruit,0.0,0.9640784859657288
+99,train_pos,1,hammer,hand tool,0.0,0.9963158965110779
+99,train_pos,1,lamb,meat,0.0,0.9682025909423828
+99,train_pos,1,bee,insect,0.0,0.9847939610481262
+99,train_pos,1,goldfish,fish,0.0,0.9905092716217041
+99,train_pos,1,hotel,commercial building,0.0,0.9635312557220459
+99,train_pos,1,drum kit,percussion instrument,0.0,0.9693639278411865
+99,train_pos,1,triangle,percussion instrument,0.0,0.9889792203903198
+99,train_pos,1,subway train,rail vehicle,0.0,0.9961389899253845
+99,train_pos,1,crow,bird,0.0,0.9650137424468994
+99,train_pos,1,minibus,road vehicle,0.0,0.9875971674919128
+99,train_pos,1,snare drum,percussion instrument,0.0,0.9835159182548523
+99,train_pos,1,tiger,mammal,0.0,0.9601991772651672
+99,train_pos,1,snake,reptile,0.0,0.9801477193832397
+99,train_pos,1,bracelet,accessory,0.0,0.9870243072509766
+99,train_pos,1,catfish,fish,0.0,0.985059380531311
+99,train_pos,1,pork,meat,0.0,0.9673558473587036
+99,train_pos,1,tuba,brass instrument,0.0,0.9666458964347839
+99,train_pos,1,accordion,keyboard instrument,0.0,0.9707382917404175
+99,train_pos,1,spruce,tree,0.0,0.9703112840652466
+99,train_pos,1,hoodie,upper body clothing,0.0,0.9935417175292969
+99,train_pos,1,office building,commercial building,0.0,0.996543824672699
+99,train_pos,1,necklace,accessory,0.0,0.9836186766624451
+99,train_pos,1,pigeon,bird,0.0,0.9960200190544128
+99,train_pos,1,whale,mammal,0.0,0.9953331351280212
+99,train_pos,1,bracken,fern,0.0,0.9541758894920349
+99,train_pos,1,elephant,mammal,0.0,0.9954785704612732
+99,train_pos,1,apple tree,tree,0.0,0.9924154281616211
+99,train_pos,1,alligator,reptile,0.0,0.9954472184181213
+99,train_pos,1,carp,fish,0.0,0.9817911386489868
+99,train_pos,1,bicycle,road vehicle,0.0,0.9593009352684021
+99,train_pos,1,barrel cactus,cactus,0.0,0.9712920784950256
+99,train_pos,1,headwear,clothing,0.0,0.8605066537857056
+99,train_pos,1,keyboard instrument,instrument,0.0,0.9302668571472168
+99,train_pos,1,birch,tree,0.0,0.9773300886154175
+99,train_pos,1,clavichord,keyboard instrument,0.0,0.9792572855949402
+99,train_pos,1,clarinet,woodwind,0.0,0.9959911704063416
+99,train_pos,1,upper body clothing,clothing,0.0,0.9054365754127502
+99,train_pos,1,daisy,flowering plant,0.0,0.9743376970291138
+99,train_pos,1,jacket,upper body clothing,0.0,0.9827835559844971
+99,train_pos,1,butterfly,insect,0.0,0.994835615158081
+99,train_pos,1,educational building,building,0.0,0.9259703755378723
+99,train_pos,1,gecko,reptile,0.0,0.9954061508178711
+99,train_pos,1,shovel,gardening tool,0.0,0.9887459874153137
+99,train_pos,1,tape measure,measuring tool,0.0,0.9909250736236572
+99,train_pos,1,cedar,tree,0.0,0.9924405813217163
+99,train_pos,1,tomato,vegetable,0.0,0.9787399768829346
+99,train_pos,1,organ,keyboard instrument,0.0,0.9960528612136841
+99,train_pos,1,space shuttle,spacecraft,0.0,0.9806452393531799
+99,train_pos,1,residential building,building,0.0,0.9237201809883118
+99,train_pos,1,cucumber,vegetable,0.0,0.9954171180725098
+99,train_pos,1,helicopter,aircraft,0.0,0.9622249603271484
+99,train_pos,1,pants,lower body clothing,0.0,0.9953364729881287
+99,train_pos,1,pasta,grain product,0.0,0.9941551089286804
+99,train_pos,1,sheep,mammal,0.0,0.9953001737594604
+99,train_pos,1,chisel,hand tool,0.0,0.9891805052757263
+99,train_pos,1,harpsichord,keyboard instrument,0.0,0.987927258014679
+99,train_pos,1,piccolo,woodwind,0.0,0.9960488677024841
+99,train_pos,1,library,educational building,0.0,0.9806652665138245
+99,train_pos,1,truck,road vehicle,0.0,0.9873512387275696
+99,train_pos,1,animal,physical object,0.0,0.9437206983566284
+99,train_pos,1,file,hand tool,0.0,0.981782853603363
+99,train_pos,1,footwear,clothing,0.0,0.9081488251686096
+99,train_pos,1,christmas cactus,cactus,0.0,0.982572078704834
+99,train_pos,1,grape,fruit,0.0,0.9891778230667114
+99,train_pos,1,sausage,meat,0.0,0.9858270883560181
+99,train_pos,1,monorail,rail vehicle,0.0,0.9842900633811951
+99,train_pos,1,ruler,measuring tool,0.0,0.9859098196029663
+99,train_pos,1,industrial building,building,0.0,0.9251830577850342
+99,train_pos,1,potato,vegetable,0.0,0.9845678806304932
+99,train_pos,1,zebra,mammal,0.0,0.9953593611717224
+99,train_pos,1,bread,grain product,0.0,0.9930572509765625
+99,train_pos,1,spacecraft,vehicle,0.0,0.9134151935577393
+99,train_pos,1,probe,spacecraft,0.0,0.9823235273361206
+99,train_pos,1,coat,upper body clothing,0.0,0.9953005313873291
+99,train_pos,1,apple,fruit,0.0,0.996324360370636
+99,train_pos,1,hand drill,hand tool,0.0,0.9961038827896118
+99,train_pos,1,piano,keyboard instrument,0.0,0.9869270920753479
+99,train_pos,1,beanie,headwear,0.0,0.9576498866081238
+99,train_pos,1,cymbals,percussion instrument,0.0,0.9962465167045593
+99,train_pos,1,dessert,food,0.0,0.9029682874679565
+99,train_pos,1,cello,string instrument,0.0,0.9961981177330017
+99,train_pos,1,cream,dairy product,0.0,0.948215663433075
+99,train_pos,1,fly,insect,0.0,0.9516285061836243
+99,train_pos,1,lower body clothing,clothing,0.0,0.9080551266670227
+99,train_pos,1,screwdriver,hand tool,0.0,0.9685230851173401
+99,train_pos,1,shirt,upper body clothing,0.0,0.9855290055274963
+99,train_pos,1,pudding,dessert,0.0,0.9689406156539917
+99,train_pos,1,pie,dessert,0.0,0.9833252429962158
+99,train_pos,1,shorts,lower body clothing,0.0,0.9784603714942932
+99,train_pos,1,bird,animal,0.0,0.9285476207733154
+99,train_pos,1,taxi,road vehicle,0.0,0.986817479133606
+99,train_pos,1,micrometer,measuring tool,0.0,0.9707074165344238
+99,train_pos,1,trumpet,brass instrument,0.0,0.9880535006523132
+99,train_pos,1,sneakers,footwear,0.0,0.9701384902000427
+99,train_pos,1,canoe,watercraft,0.0,0.9782974123954773
+99,train_pos,1,willow,tree,0.0,0.9922863245010376
+99,train_pos,1,mallet,hand tool,0.0,0.9697903394699097
+99,train_pos,1,belt,accessory,0.0,0.9863519668579102
+99,train_pos,1,english horn,woodwind,0.0,0.9876766204833984
+99,train_pos,1,string instrument,instrument,0.0,0.8980368375778198
+99,train_pos,1,saxophone,woodwind,0.0,0.9657811522483826
+99,train_pos,1,leggings,lower body clothing,0.0,0.9779495596885681
+99,train_pos,1,high heels,footwear,0.0,0.9949976205825806
+99,train_pos,1,tortoise,reptile,0.0,0.9862285852432251
+99,train_pos,1,tree,plant,0.0,0.8892241716384888
+99,train_pos,1,airliner,aircraft,0.0,0.9819245338439941
+99,train_pos,1,pine,tree,0.0,0.9644779562950134
+99,train_pos,1,sweater,upper body clothing,0.0,0.968599796295166
+99,train_pos,1,percussion instrument,instrument,0.0,0.9009178280830383
+99,train_pos,1,trout,fish,0.0,0.9916753768920898
+99,train_pos,1,ice cream,dessert,0.0,0.9296683669090271
+99,train_pos,1,tree fern,fern,0.0,0.9768735766410828
+99,train_pos,1,cabbage,vegetable,0.0,0.9954807758331299
+99,train_pos,1,pepper,vegetable,0.0,0.9743551015853882
+99,train_pos,1,harp,string instrument,0.0,0.9710615277290344
+99,train_pos,1,tuna,fish,0.0,0.9642693400382996
+99,train_pos,1,bungalow,residential building,0.0,0.9826599359512329
+99,train_pos,1,mosque,religious building,0.0,0.9756274819374084
+99,train_pos,1,motorcycle,road vehicle,0.0,0.9864214658737183
+99,train_pos,1,car,road vehicle,0.0,0.9719105958938599
+99,train_pos,1,pear,fruit,0.0,0.9816144108772278
+99,train_pos,1,power tool,tool,0.0,0.9138032793998718
+99,train_pos,1,gardening tool,tool,0.0,0.9111188054084778
+99,train_pos,1,slippers,footwear,0.0,0.9786170125007629
+99,train_pos,1,space station,spacecraft,0.0,0.9942715167999268
+99,train_pos,1,maidenhair fern,fern,0.0,0.9706712365150452
+99,train_pos,1,gloves,accessory,0.0,0.9730194807052612
+99,train_pos,1,utility knife,hand tool,0.0,0.9843003153800964
+99,train_pos,1,caliper,measuring tool,0.0,0.9653681516647339
+99,train_pos,1,marimba,percussion instrument,0.0,0.9636164903640747
+99,train_pos,1,bamboo,grass,0.0,0.9778337478637695
+99,train_pos,1,commercial building,building,0.0,0.9229395985603333
+99,train_pos,1,ukulele,string instrument,0.0,0.988926887512207
+99,train_pos,1,villa,residential building,0.0,0.9964937567710876
+99,train_pos,1,beef,meat,0.0,0.9862648844718933
+99,train_pos,1,milk,dairy product,0.0,0.9922934770584106
+99,train_pos,1,ant,insect,0.0,0.9948770403862
+99,train_pos,1,flamingo,bird,0.0,0.9883776307106018
+99,train_pos,1,saguaro,cactus,0.0,0.9448311924934387
+99,train_pos,1,cottage,residential building,0.0,0.9895148277282715
+99,train_pos,1,insect,animal,0.0,0.9150601625442505
+99,train_pos,1,oboe,woodwind,0.0,0.9883098602294922
+99,train_pos,1,skirt,lower body clothing,0.0,0.9953473210334778
+99,train_pos,1,mango,fruit,0.0,0.9648571610450745
+99,train_pos,1,dog,mammal,0.0,0.9952418804168701
+99,train_pos,1,cookie,dessert,0.0,0.994408130645752
+99,train_pos,1,hawk,bird,0.0,0.9959495067596436
+99,train_pos,1,gong,percussion instrument,0.0,0.9962869882583618
+99,train_pos,1,warehouse,industrial building,0.0,0.9779201745986938
+99,train_pos,1,t-shirt,upper body clothing,0.0,0.9705444574356079
+99,train_pos,1,owl,bird,0.0,0.9885179996490479
+99,train_pos,1,church,religious building,0.0,0.988707423210144
+99,train_pos,1,jigsaw,power tool,0.0,0.9653029441833496
+99,train_pos,1,bass drum,percussion instrument,0.0,0.9694887399673462
+99,train_pos,1,butter,dairy product,0.0,0.9699374437332153
+99,train_pos,1,flute,woodwind,0.0,0.9599547982215881
+99,train_pos,1,vehicle,physical object,0.0,0.9474599957466125
+99,train_pos,1,fruit,food,0.0,0.9527748227119446
+99,train_pos,1,spirit level,measuring tool,0.0,0.9859170317649841
+99,train_pos,1,jeans,lower body clothing,0.0,0.9580709934234619
+99,train_pos,1,watercraft,vehicle,0.0,0.9045194387435913
+99,train_pos,1,rose,flowering plant,0.0,0.9729149341583252
+99,train_pos,1,factory,industrial building,0.0,0.9896629452705383
+99,train_pos,1,lander,spacecraft,0.0,0.9679011702537537
+99,train_pos,1,eagle,bird,0.0,0.9884309768676758
+99,train_pos,1,violin,string instrument,0.0,0.9888408780097961
+99,train_pos,1,blouse,upper body clothing,0.0,0.9719274640083313
+99,train_pos,1,food,physical object,0.0,0.951740026473999
+99,train_pos,1,grasshopper,insect,0.0,0.9949236512184143
+99,train_pos,1,cornet,brass instrument,0.0,0.9607745409011841
+99,train_pos,1,violet,flowering plant,0.0,0.9963162541389465
+99,train_pos,1,banjo,string instrument,0.0,0.9801344275474548
+99,train_pos,1,pliers,hand tool,0.0,0.9892184138298035
+99,train_pos,1,xylophone,percussion instrument,0.0,0.9886386394500732
+99,train_pos,1,parrot,bird,0.0,0.9641894102096558
+99,train_pos,1,tie,accessory,0.0,0.9704959392547607
+99,train_pos,1,trowel,gardening tool,0.0,0.9609723091125488
+99,train_pos,1,biplane,aircraft,0.0,0.9730080366134644
+99,train_pos,1,spinach,vegetable,0.0,0.9697232842445374
+99,train_pos,1,sitar,string instrument,0.0,0.9961767196655273
+99,train_pos,1,turtle,reptile,0.0,0.9609190225601196
+99,train_pos,1,power drill,power tool,0.0,0.9717009663581848
+99,train_pos,1,monkey,mammal,0.0,0.9868342280387878
+99,train_pos,1,angle grinder,power tool,0.0,0.9812914133071899
+99,train_pos,1,iguana,reptile,0.0,0.977436363697052
+99,train_pos,1,onion,vegetable,0.0,0.9536565542221069
+99,train_pos,1,sander,power tool,0.0,0.9963119626045227
+99,train_pos,1,mandolin,string instrument,0.0,0.9698521494865417
+99,train_pos,1,beetle,insect,0.0,0.9849655628204346
+99,train_pos,1,boots,footwear,0.0,0.9953768253326416
+99,train_pos,1,cheese,dairy product,0.0,0.9630528092384338
+99,train_pos,1,cow,mammal,0.0,0.9538071751594543
+99,train_pos,1,wrench,hand tool,0.0,0.9687631130218506
+99,train_pos,1,shark,fish,0.0,0.9659252762794495
+99,train_pos,1,euphonium,brass instrument,0.0,0.9827234745025635
+99,train_pos,1,daffodil,flowering plant,0.0,0.9954838752746582
+99,train_pos,1,broccoli,vegetable,0.0,0.9869034290313721
+99,train_pos,1,lettuce,vegetable,0.0,0.9954758286476135
+99,train_pos,1,dolphin,mammal,0.0,0.9953534603118896
+99,train_pos,1,cardigan,upper body clothing,0.0,0.9762521982192993
+99,train_pos,1,rail vehicle,vehicle,0.0,0.9164392948150635
+99,train_pos,1,recorder,woodwind,0.0,0.9817399978637695
+99,train_pos,1,fir,tree,0.0,0.9774148464202881
+99,train_pos,1,cake,dessert,0.0,0.9533700942993164
+99,train_pos,1,brownie,dessert,0.0,0.9944646954536438
+99,train_pos,1,pruning shears,gardening tool,0.0,0.9892337322235107
+99,train_pos,1,submarine,watercraft,0.0,0.9956222176551819
+99,train_pos,1,lawn grass,grass,0.0,0.9559462666511536
+99,train_pos,1,woodwind,instrument,0.0,0.8914910554885864
+99,train_pos,1,sunflower,flowering plant,0.0,0.9877941608428955
+99,train_pos,1,flugelhorn,brass instrument,0.0,0.9959533214569092
+99,train_pos,1,brass instrument,instrument,0.0,0.8979425430297852
+99,train_pos,1,shoes,footwear,0.0,0.9786151647567749
+99,train_pos,1,coach,road vehicle,0.0,0.9720327854156494
+99,train_pos,1,carrot,vegetable,0.0,0.9867609739303589
+99,train_pos,1,physical object,entity,0.0,0.9049389958381653
+99,train_pos,1,cathedral,religious building,0.0,0.9834365844726562
+99,train_pos,1,yogurt,dairy product,0.0,0.9807929992675781
+99,train_pos,1,guitar,string instrument,0.0,0.981351375579834
+99,train_pos,1,scooter,road vehicle,0.0,0.9785653948783875
+99,train_pos,1,banana,fruit,0.0,0.9963480830192566
+99,train_pos,1,sandals,footwear,0.0,0.970302402973175
+99,train_pos,1,chicken,meat,0.0,0.9672285914421082
+99,train_pos,1,orchid,flowering plant,0.0,0.9654998183250427
+99,train_pos,1,strawberry,fruit,0.0,0.9798837900161743
+99,train_pos,1,shopping mall,commercial building,0.0,0.9854416847229004
+99,train_pos,1,poppy,flowering plant,0.0,0.9865489602088928
+99,train_pos,1,van,road vehicle,0.0,0.9958146214485168
+99,train_pos,1,freight train,rail vehicle,0.0,0.9756045341491699
+99,train_pos,1,dairy product,food,0.0,0.9165997505187988
+99,train_pos,1,cactus,plant,0.0,0.916924238204956
+99,train_pos,1,hoe,gardening tool,0.0,0.981743574142456
+99,train_pos,1,synthesizer,keyboard instrument,0.0,0.9608142375946045
+99,train_pos,1,rake,gardening tool,0.0,0.9813790321350098
+99,train_pos,1,orange,fruit,0.0,0.9962932467460632
+99,train_pos,1,trombone,brass instrument,0.0,0.995974600315094
+99,train_pos,1,grass,plant,0.0,0.9226933121681213
+99,train_pos,1,prickly pear,cactus,0.0,0.9813238978385925
+99,train_pos,1,measuring tool,tool,0.0,0.9136478304862976
+99,train_pos,1,wheatgrass,grass,0.0,0.9556559324264526
+99,train_pos,1,kayak,watercraft,0.0,0.9710336327552795
+99,train_pos,1,vegetable,food,0.0,0.9450371265411377
+99,train_pos,1,french horn,brass instrument,0.0,0.9882708191871643
+99,train_pos,1,crocodile,reptile,0.0,0.9664890766143799
+99,train_pos,1,train,rail vehicle,0.0,0.9834949374198914
+99,train_pos,1,penguin,bird,0.0,0.9758899807929993
+99,train_pos,1,accessory,clothing,0.0,0.9079660773277283
+99,train_pos,1,horse,mammal,0.0,0.9800301194190979
+99,train_pos,1,reed,grass,0.0,0.971942663192749
+99,train_pos,1,school,educational building,0.0,0.9861728549003601
+99,train_pos,1,goat,mammal,0.0,0.9859248995780945
+99,train_pos,1,cherry tree,tree,0.0,0.9460738897323608
+99,train_pos,1,grain product,food,0.0,0.914722204208374
+99,train_pos,1,lily,flowering plant,0.0,0.9798999428749084
+99,train_pos,1,religious building,building,0.0,0.9225576519966125
+99,train_pos,1,lizard,reptile,0.0,0.9953511953353882
+99,train_pos,1,apartment building,residential building,0.0,0.9810546636581421
+99,train_pos,1,house,residential building,0.0,0.9672350287437439
+99,train_pos,1,timpani,percussion instrument,0.0,0.9892451763153076
+99,train_pos,1,circular saw,power tool,0.0,0.9962749481201172
+99,train_pos,1,university building,educational building,0.0,0.963494062423706
+99,train_pos,1,lion,mammal,0.0,0.9953990578651428
+99,train_pos,1,double bass,string instrument,0.0,0.9668400883674622
+99,train_pos,1,turkey,meat,0.0,0.9771146178245544
+99,train_pos,1,bass clarinet,woodwind,0.0,0.9789034128189087
+99,train_pos,1,tool,physical object,0.0,0.9326368570327759
+99,train_pos,1,ship,watercraft,0.0,0.9956102967262268
+99,train_neg,0,jigsaw,nail gun,0.0,0.021852588281035423
+99,train_neg,0,temple,synagogue,0.0,0.017162570729851723
+99,train_neg,0,double bass,banjo,0.0,0.024411629885435104
+99,train_neg,0,turkey,turkey,0.0,0.034863706678152084
+99,train_neg,0,crocodile,snake,0.0,0.02032429724931717
+99,train_neg,0,scarf,necklace,0.0,0.018442854285240173
+99,train_neg,0,supermarket,supermarket,0.0,0.03923109918832779
+99,train_neg,0,hoe,hoe,0.0,0.0361245833337307
+99,train_neg,0,cap,beret,0.0,0.029354389756917953
+99,train_neg,0,leggings,trousers,0.0,0.02869408205151558
+99,train_neg,0,kiwi,strawberry,0.0,0.028318697586655617
+99,train_neg,0,jeans,leggings,0.0,0.016890874132514
+99,train_neg,0,lander,rocket,0.0,0.02611825428903103
+99,train_neg,0,carp,pike,0.0,0.032635290175676346
+99,train_neg,0,horse,horse,0.0,0.03686848655343056
+99,train_neg,0,store,shopping mall,0.0,0.02870306745171547
+99,train_neg,0,mosque,cathedral,0.0,0.030647914856672287
+99,train_neg,0,tuna,catfish,0.0,0.023415468633174896
+99,train_neg,0,fly,bee,0.0,0.020138099789619446
+99,train_neg,0,gloves,bracelet,0.0,0.017974339425563812
+99,train_neg,0,physical object,clothing,0.0,0.22671382129192352
+99,train_neg,0,parrot,owl,0.0,0.021995432674884796
+99,train_neg,0,warehouse,warehouse,0.0,0.039456188678741455
+99,train_neg,0,space shuttle,probe,0.0,0.03843779116868973
+99,train_neg,0,physical object,tool,0.0,0.1278659999370575
+99,train_neg,0,marimba,triangle,0.0,0.018245277926325798
+99,train_neg,0,pork,lamb,0.0,0.03614242747426033
+99,train_neg,0,cow,monkey,0.0,0.01902349665760994
+99,train_neg,0,pine,pine,0.0,0.021383017301559448
+99,train_neg,0,sandals,shoes,0.0,0.021816469728946686
+99,train_neg,0,seagull,penguin,0.0,0.02537173591554165
+99,train_neg,0,catfish,trout,0.0,0.025081409141421318
+99,train_neg,0,tram,monorail,0.0,0.0029642744921147823
+99,train_neg,0,physical object,food,0.0,0.1135004311800003
+99,train_neg,0,beret,hat,0.0,0.028882935643196106
+99,train_neg,0,t-shirt,shirt,0.0,0.022719984874129295
+99,train_neg,0,tuba,trumpet,0.0,0.020630910992622375
+99,train_neg,0,bass drum,snare drum,0.0,0.022226164117455482
+99,train_neg,0,ruler,ruler,0.0,0.020824844017624855
+99,train_neg,0,guitar,guitar,0.0,0.03254810348153114
+99,train_neg,0,mango,peach,0.0,0.02272683195769787
+99,train_neg,0,rice,noodles,0.0,0.030036255717277527
+99,train_neg,0,spinach,broccoli,0.0,0.025560932233929634
+99,train_neg,0,car,truck,0.0,0.023695917800068855
+99,train_neg,0,lecture hall,school,0.0,0.03314585238695145
+99,train_neg,0,rose,poppy,0.0,0.015399618074297905
+99,train_neg,0,beanie,beret,0.0,0.022951429709792137
+99,train_neg,0,lawn grass,wheatgrass,0.0,0.02848833240568638
+99,train_neg,0,apartment building,cottage,0.0,0.02847825549542904
+99,train_neg,0,sweater,cardigan,0.0,0.02417600341141224
+99,train_neg,0,ice cream,ice cream,0.0,0.028907962143421173
+99,train_neg,0,tuba,tuba,0.0,0.044199272990226746
+99,train_neg,0,angle grinder,power drill,0.0,0.014475771225988865
+99,train_neg,0,cornet,euphonium,0.0,0.016843287274241447
+99,train_neg,0,helicopter,airliner,0.0,0.017218489199876785
+99,train_neg,0,salmon,carp,0.0,0.029907623305916786
+99,train_neg,0,micrometer,spirit level,0.0,0.020294874906539917
+99,train_neg,0,hotel,store,0.0,0.024498017504811287
+99,train_neg,0,bracken,bracken,0.0,0.019673937931656837
+99,train_neg,0,mallet,utility knife,0.0,0.02125679887831211
+99,train_neg,0,university building,library,0.0,0.024788647890090942
+99,train_neg,0,jeans,shorts,0.0,0.016833752393722534
+99,train_neg,0,bicycle,scooter,0.0,0.021150000393390656
+99,train_neg,0,bungalow,bungalow,0.0,0.03585433587431908
+99,train_neg,0,mosque,church,0.0,0.022916842252016068
+99,train_neg,0,tiger,cat,0.0,0.026242095977067947
+99,train_neg,0,strawberry,grape,0.0,0.033633507788181305
+99,train_neg,0,blouse,jacket,0.0,0.021100735291838646
+99,train_neg,0,cathedral,church,0.0,0.031373780220746994
+99,train_neg,0,train,monorail,0.0,0.003381412010639906
+99,train_neg,0,lamb,pork,0.0,0.04399489983916283
+99,train_neg,0,wheatgrass,lawn grass,0.0,0.028341684490442276
+99,train_neg,0,penguin,penguin,0.0,0.041225213557481766
+99,train_neg,0,lawn grass,bamboo,0.0,0.01573335938155651
+99,train_neg,0,warehouse,power plant,0.0,0.037363067269325256
+99,train_neg,0,chicken,beef,0.0,0.02596268057823181
+99,train_neg,0,mallet,mallet,0.0,0.05001779645681381
+99,train_neg,0,bass clarinet,english horn,0.0,0.026430964469909668
+99,train_neg,0,rake,rake,0.0,0.03577618673443794
+99,train_neg,0,euphonium,euphonium,0.0,0.034460410475730896
+99,train_neg,0,trowel,lawn mower,0.0,0.023734256625175476
+99,train_neg,0,tie,belt,0.0,0.02155347727239132
+99,train_neg,0,sneakers,slippers,0.0,0.021884365007281303
+99,train_neg,0,saguaro,barrel cactus,0.0,0.016732672229409218
+99,train_neg,0,synthesizer,piano,0.0,0.01726822555065155
+99,train_neg,0,flute,bass clarinet,0.0,0.0216786190867424
+99,train_neg,0,synthesizer,clavichord,0.0,0.022203737869858742
+99,train_neg,0,physical object,plant,0.0,0.15482717752456665
+99,train_neg,0,caliper,tape measure,0.0,0.017422989010810852
+99,train_neg,0,lawn mower,shovel,0.0,0.028784366324543953
+99,train_neg,0,rice,cereal,0.0,0.02072776108980179
+99,train_neg,0,spirit level,spirit level,0.0,0.039521608501672745
+99,train_neg,0,cheese,cream,0.0,0.04382764920592308
+99,train_neg,0,maidenhair fern,bracken,0.0,0.02848333679139614
+99,train_neg,0,saguaro,saguaro,0.0,0.03531603515148163
+99,train_neg,0,wheatgrass,reed,0.0,0.017398132011294365
+99,train_neg,0,sailboat,sailboat,0.0,0.02967250905930996
+99,train_neg,0,cow,horse,0.0,0.01745877042412758
+99,train_neg,0,pork,sausage,0.0,0.026104474440217018
+99,train_neg,0,cream,yogurt,0.0,0.021423226222395897
+99,train_neg,0,coach,taxi,0.0,0.02373921126127243
+99,train_neg,0,cake,pie,0.0,0.020408960059285164
+99,train_neg,0,screwdriver,pliers,0.0,0.021791016682982445
+99,train_neg,0,helicopter,glider,0.0,0.017404314130544662
+99,train_neg,0,rocket,space shuttle,0.0,0.02746112085878849
+99,train_neg,0,snake,snake,0.0,0.03267570212483406
+99,train_neg,0,snare drum,xylophone,0.0,0.029611269012093544
+99,train_neg,0,jigsaw,power drill,0.0,0.009008778259158134
+99,train_neg,0,beanie,cap,0.0,0.02599981054663658
+99,train_neg,0,pear,pear,0.0,0.04397795349359512
+99,train_neg,0,bicycle,minibus,0.0,0.018740378320217133
+99,train_neg,0,physical object,animal,0.0,0.10815683007240295
+99,train_neg,0,plum,blueberry,0.0,0.023034891113638878
+99,train_neg,0,pepper,tomato,0.0,0.03220539540052414
+99,train_neg,0,penguin,flamingo,0.0,0.02807483822107315
+99,train_neg,0,spruce,fir,0.0,0.026386229321360588
+99,train_neg,0,probe,space shuttle,0.0,0.03271207585930824
+99,train_neg,0,wrench,chisel,0.0,0.021674439311027527
+99,train_neg,0,orchid,rose,0.0,0.022083833813667297
+99,train_neg,0,cream,butter,0.0,0.019923681393265724
+99,train_neg,0,monorail,train,0.0,0.027001766487956047
+99,train_neg,0,turtle,turtle,0.0,0.04559944197535515
+99,train_neg,0,rose,lily,0.0,0.015876295045018196
+99,train_neg,0,physical object,vehicle,0.0,0.14773575961589813
+99,train_neg,0,school,school,0.0,0.037744008004665375
+99,train_neg,0,power plant,warehouse,0.0,0.04060652479529381
+99,train_neg,0,tomato,potato,0.0,0.031167175620794296
+99,train_neg,0,saxophone,recorder,0.0,0.02557479403913021
+99,train_neg,0,freight train,train,0.0,0.015060046687722206
+99,train_neg,0,marimba,timpani,0.0,0.018267789855599403
+99,train_neg,0,shark,goldfish,0.0,0.021376412361860275
+99,train_neg,0,boat,ferry,0.0,0.02463950589299202
+99,train_neg,0,kayak,ferry,0.0,0.024496035650372505
+99,train_neg,0,library,lecture hall,0.0,0.033257704228162766
+99,train_neg,0,harp,violin,0.0,0.020799901336431503
+99,train_neg,0,bracken,tree fern,0.0,0.019486231729388237
+99,train_neg,0,shorts,shorts,0.0,0.02947705239057541
+99,train_neg,0,cherry tree,birch,0.0,0.018717389553785324
+99,train_neg,0,flute,oboe,0.0,0.017724357545375824
+99,train_neg,0,fly,beetle,0.0,0.020085537806153297
+99,train_neg,0,clavichord,harpsichord,0.0,0.02695627696812153
+99,train_neg,0,ferry,canoe,0.0,0.030393261462450027
+99,train_neg,0,daisy,poppy,0.0,0.015361079014837742
+99,train_neg,0,turtle,tortoise,0.0,0.021945398300886154
+99,train_neg,0,drum kit,snare drum,0.0,0.022183706983923912
+99,train_neg,0,workshop,factory,0.0,0.02121954970061779
+99,train_neg,0,iguana,iguana,0.0,0.03183520957827568
+99,train_neg,0,shoes,slippers,0.0,0.029348574578762054
+99,train_neg,0,recorder,bassoon,0.0,0.028486134484410286
+99,train_neg,0,caliper,spirit level,0.0,0.017718613147735596
+99,train_neg,0,saguaro,christmas cactus,0.0,0.015741609036922455
+99,train_neg,0,temple,mosque,0.0,0.035878799855709076
+99,train_neg,0,noodles,cereal,0.0,0.028764862567186356
+99,train_neg,0,crow,eagle,0.0,0.0217233095318079
+99,train_neg,0,reed,bamboo,0.0,0.021793490275740623
+99,train_neg,0,cardigan,jacket,0.0,0.024699877947568893
+99,train_neg,0,file,file,0.0,0.036656059324741364
+99,train_neg,0,tram,tram,0.0,0.03565254807472229
+99,train_neg,0,cherry tree,cherry tree,0.0,0.02765563130378723
+99,train_neg,0,cake,cake,0.0,0.05443441495299339
+99,train_neg,0,bracelet,bracelet,0.0,0.03536805137991905
+99,train_neg,0,necklace,necklace,0.0,0.029670674353837967
+99,train_neg,0,physical object,instrument,0.0,0.17387554049491882
+99,train_neg,0,physical object,building,0.0,0.12228012084960938
+99,train_neg,0,house,apartment building,0.0,0.025564905256032944
+99,train_neg,0,biplane,airliner,0.0,0.022748399525880814
+99,train_neg,0,hotel,supermarket,0.0,0.017222410067915916
+99,train_neg,0,university building,lecture hall,0.0,0.019049888476729393
+99,train_neg,0,accordion,piano,0.0,0.022014759480953217
+99,train_neg,0,trowel,pruning shears,0.0,0.018601154908537865
+99,train_neg,0,mandolin,ukulele,0.0,0.021088114008307457
+99,train_neg,0,butter,cheese,0.0,0.027423247694969177
+99,train_neg,0,ice cream,cake,0.0,0.047516584396362305
+99,train_neg,0,slippers,shoes,0.0,0.029121849685907364
+99,train_neg,0,lily,sunflower,0.0,0.018268369138240814
+99,train_neg,0,airliner,airliner,0.0,0.0322779081761837
+99,train_neg,0,workshop,workshop,0.0,0.027095278725028038
+99,train_neg,0,trousers,leggings,0.0,0.02779609151184559
+99,train_neg,0,cat,goat,0.0,0.028045624494552612
+99,train_neg,0,fly,fly,0.0,0.05555906891822815
+99,train_neg,0,mosquito,moth,0.0,0.02260010875761509
+99,train_neg,0,canoe,sailboat,0.0,0.027121886610984802
+99,train_neg,0,onion,pepper,0.0,0.024805108085274696
+99,train_neg,0,cream,cheese,0.0,0.0186795461922884
+99,train_neg,0,scooter,motorcycle,0.0,0.025837337598204613
+99,train_neg,0,moth,moth,0.0,0.03361194208264351
+99,train_neg,0,cornet,french horn,0.0,0.018360866233706474
+99,train_neg,0,pudding,pudding,0.0,0.02544659934937954
+99,train_neg,0,onion,carrot,0.0,0.020138774067163467
+99,train_neg,0,banjo,viola,0.0,0.026753924787044525
+99,train_neg,0,barrel cactus,prickly pear,0.0,0.021846793591976166
+99,train_neg,0,power drill,power drill,0.0,0.014083489775657654
+99,train_neg,0,glider,glider,0.0,0.03173133358359337
+99,test_pos,1,workshop,building,0.0,0.20861376821994781
+99,test_pos,1,train,vehicle,0.0,0.5402811765670776
+99,test_pos,1,pine,physical object,0.0,0.7088887691497803
+99,test_pos,1,snare drum,physical object,0.0,0.5985123515129089
+99,test_pos,1,grape,physical object,0.0,0.9351262450218201
+99,test_pos,1,sausage,physical object,0.0,0.9213008284568787
+99,test_pos,1,truck,vehicle,0.0,0.744659960269928
+99,test_pos,1,synthesizer,instrument,0.0,0.2268655002117157
+99,test_pos,1,kayak,vehicle,0.0,0.4113024175167084
+99,test_pos,1,cow,physical object,0.0,0.5853651165962219
+99,test_pos,1,hoe,physical object,0.0,0.6539140343666077
+99,test_pos,1,marimba,physical object,0.0,0.2725379467010498
+99,test_pos,1,leggings,clothing,0.0,0.6075589060783386
+99,test_pos,1,apple,physical object,0.0,0.9820789694786072
+99,test_pos,1,hoodie,physical object,0.0,0.9034525156021118
+99,test_pos,1,wrench,physical object,0.0,0.4125581681728363
+99,test_pos,1,pudding,food,0.0,0.7348644137382507
+99,test_pos,1,viola,physical object,0.0,0.7367081046104431
+99,test_pos,1,shark,physical object,0.0,0.5222979187965393
+99,test_pos,1,apartment building,building,0.0,0.5170182585716248
+99,test_pos,1,wheatgrass,plant,0.0,0.5159785151481628
+99,test_pos,1,temple,building,0.0,0.20378410816192627
+99,test_pos,1,helicopter,vehicle,0.0,0.2967282831668854
+99,test_pos,1,sparrow,animal,0.0,0.9584185481071472
+99,test_pos,1,hat,physical object,0.0,0.7504734992980957
+99,test_pos,1,sitar,physical object,0.0,0.942532479763031
+99,test_pos,1,house,building,0.0,0.283497154712677
+99,test_pos,1,cornet,instrument,0.0,0.2245951145887375
+99,test_pos,1,recorder,instrument,0.0,0.49237433075904846
+99,test_pos,1,lawn mower,tool,0.0,0.4341563880443573
+99,test_pos,1,mosquito,animal,0.0,0.4445613622665405
+99,test_pos,1,wasp,physical object,0.0,0.9684805870056152
+99,test_pos,1,reed,plant,0.0,0.6941564083099365
+99,test_pos,1,file,tool,0.0,0.4875257611274719
+99,test_pos,1,bass drum,instrument,0.0,0.27936604619026184
+99,test_pos,1,moth,animal,0.0,0.6470798254013062
+99,test_pos,1,kiwi,food,0.0,0.4865453541278839
+99,test_pos,1,workshop,physical object,0.0,0.3528115749359131
+99,test_pos,1,blueberry,food,0.0,0.8995571732521057
+99,test_pos,1,supermarket,building,0.0,0.6076892614364624
+99,test_pos,1,willow,plant,0.0,0.9451327323913574
+99,test_pos,1,synthesizer,physical object,0.0,0.2699427008628845
+99,test_pos,1,cereal,physical object,0.0,0.8738335371017456
+99,test_pos,1,tulip,physical object,0.0,0.9408164024353027
+99,test_pos,1,bracken,physical object,0.0,0.6430438756942749
+99,test_pos,1,necklace,physical object,0.0,0.6642462611198425
+99,test_pos,1,hand drill,tool,0.0,0.9430270791053772
+99,test_pos,1,taxi,vehicle,0.0,0.7307319641113281
+99,test_pos,1,cardigan,clothing,0.0,0.5642397403717041
+99,test_pos,1,university building,building,0.0,0.23452375829219818
+99,test_pos,1,ship,vehicle,0.0,0.9460805058479309
+99,test_pos,1,sweater,clothing,0.0,0.43183860182762146
+99,test_pos,1,shark,animal,0.0,0.29501014947891235
+99,test_pos,1,apartment building,physical object,0.0,0.6961047053337097
+99,test_pos,1,sneakers,physical object,0.0,0.4282948970794678
+99,test_pos,1,house,physical object,0.0,0.4580603837966919
+99,test_pos,1,pine,plant,0.0,0.6151584386825562
+99,test_pos,1,screwdriver,tool,0.0,0.26176533102989197
+99,test_pos,1,guitar,instrument,0.0,0.4871769845485687
+99,test_pos,1,plum,food,0.0,0.5256974697113037
+99,test_pos,1,cornet,physical object,0.0,0.26744207739830017
+99,test_pos,1,recorder,physical object,0.0,0.5523812174797058
+99,test_pos,1,blueberry,physical object,0.0,0.9387765526771545
+99,test_pos,1,lamb,food,0.0,0.6400849223136902
+99,test_pos,1,brownie,food,0.0,0.9703081250190735
+99,test_pos,1,wasp,animal,0.0,0.9508987069129944
+99,test_pos,1,trousers,physical object,0.0,0.5420984625816345
+99,test_pos,1,ice cream,food,0.0,0.4144645035266876
+99,test_pos,1,birch,physical object,0.0,0.8296893835067749
+99,test_pos,1,bass drum,physical object,0.0,0.32839953899383545
+99,test_pos,1,boots,physical object,0.0,0.9428011178970337
+99,test_pos,1,bus,physical object,0.0,0.9529235363006592
+99,test_pos,1,watercraft,entity,0.0,0.9918662905693054
+99,test_pos,1,trout,animal,0.0,0.8578171133995056
+99,test_pos,1,educational building,entity,0.0,0.9941604733467102
+99,test_pos,1,supermarket,physical object,0.0,0.7589242458343506
+99,test_pos,1,dragonfly,physical object,0.0,0.9693683385848999
+99,test_pos,1,milk,physical object,0.0,0.9699278473854065
+99,test_pos,1,fern,entity,0.0,0.9919599890708923
+99,test_pos,1,xylophone,instrument,0.0,0.7099862098693848
+99,test_pos,1,alligator,physical object,0.0,0.9708450436592102
+99,test_pos,1,jigsaw,physical object,0.0,0.3670632839202881
+99,test_pos,1,high heels,physical object,0.0,0.939674973487854
+99,test_pos,1,ferry,vehicle,0.0,0.5717995166778564
+99,test_pos,1,space station,physical object,0.0,0.9361257553100586
+99,test_pos,1,flamingo,physical object,0.0,0.8973507285118103
+99,test_pos,1,store,physical object,0.0,0.6160966157913208
+99,test_pos,1,tomato,food,0.0,0.7810536623001099
+99,test_pos,1,cake,physical object,0.0,0.7381748557090759
+99,test_pos,1,monorail,vehicle,0.0,0.6086817979812622
+99,test_pos,1,brownie,physical object,0.0,0.9797887206077576
+99,test_pos,1,cap,clothing,0.0,0.6385186314582825
+99,test_pos,1,mallet,tool,0.0,0.2849346995353699
+99,test_pos,1,pork,food,0.0,0.6374280452728271
+99,test_pos,1,bird,entity,0.0,0.9944013953208923
+99,test_pos,1,fruit,entity,0.0,0.9957287907600403
+99,test_pos,1,tree,entity,0.0,0.9908301830291748
+99,test_pos,1,guitar,physical object,0.0,0.5471056699752808
+99,test_pos,1,cedar,physical object,0.0,0.9560112953186035
+99,test_pos,1,hawk,physical object,0.0,0.9724795818328857
+99,test_pos,1,helmet,clothing,0.0,0.9600116610527039
+99,test_pos,1,pigeon,animal,0.0,0.9584940671920776
+99,test_pos,1,horse,physical object,0.0,0.840376615524292
+99,test_pos,1,coach,physical object,0.0,0.5251139402389526
+99,test_pos,1,pear,physical object,0.0,0.8762850761413574
+99,test_pos,1,tulip,plant,0.0,0.9264470338821411
+99,test_pos,1,trowel,physical object,0.0,0.331747829914093
+99,test_pos,1,rice,physical object,0.0,0.807179868221283
+99,test_pos,1,shoes,physical object,0.0,0.5798430442810059
+99,test_pos,1,bracken,plant,0.0,0.5367103815078735
+99,test_pos,1,goat,physical object,0.0,0.8963636159896851
+99,test_pos,1,motorcycle,vehicle,0.0,0.7204917669296265
+99,test_pos,1,owl,physical object,0.0,0.8991302251815796
+99,test_pos,1,car,vehicle,0.0,0.39906665682792664
+99,test_pos,1,dog,physical object,0.0,0.972399890422821
+99,test_pos,1,beef,food,0.0,0.8741562366485596
+99,test_pos,1,gecko,physical object,0.0,0.9705064296722412
+99,test_pos,1,dragonfly,animal,0.0,0.9524406790733337
+99,test_pos,1,road vehicle,entity,0.0,0.9916503429412842
+99,test_pos,1,scooter,vehicle,0.0,0.5231306552886963
+99,test_pos,1,xylophone,physical object,0.0,0.7458505630493164
+99,test_pos,1,airliner,vehicle,0.0,0.6087665557861328
+99,test_pos,1,tomato,physical object,0.0,0.8732327222824097
+99,test_pos,1,flamingo,animal,0.0,0.816572904586792
+99,test_pos,1,bugle,instrument,0.0,0.9405872821807861
+99,test_pos,1,sandals,physical object,0.0,0.43078330159187317
+99,test_pos,1,jet,vehicle,0.0,0.9458338618278503
+99,test_pos,1,cucumber,physical object,0.0,0.9796168804168701
+99,test_pos,1,hammer,tool,0.0,0.941725492477417
+99,test_pos,1,sailboat,vehicle,0.0,0.5949515104293823
+99,test_pos,1,shovel,tool,0.0,0.7089811563491821
+99,test_pos,1,butter,physical object,0.0,0.8493788242340088
+99,test_pos,1,tram,vehicle,0.0,0.39379245042800903
+99,test_pos,1,birch,plant,0.0,0.774857759475708
+99,test_pos,1,clarinet,instrument,0.0,0.9369989633560181
+99,test_pos,1,eagle,physical object,0.0,0.8980132937431335
+99,test_pos,1,van,physical object,0.0,0.955761730670929
+99,test_pos,1,beef,physical object,0.0,0.924176037311554
+99,test_pos,1,tape measure,physical object,0.0,0.8456167578697205
+99,test_pos,1,lion,physical object,0.0,0.9734922647476196
+99,test_pos,1,tie,physical object,0.0,0.3883166015148163
+99,test_pos,1,goat,animal,0.0,0.8140636086463928
+99,test_pos,1,cookie,food,0.0,0.9699246883392334
+99,test_pos,1,dog,animal,0.0,0.9572523236274719
+99,test_pos,1,hat,clothing,0.0,0.7818191051483154
+99,test_pos,1,cream,food,0.0,0.5390040874481201
+99,test_pos,1,minibus,physical object,0.0,0.8144826292991638
+99,test_pos,1,canoe,physical object,0.0,0.6590921878814697
+99,test_pos,1,prickly pear,physical object,0.0,0.8330380320549011
+99,test_pos,1,butterfly,physical object,0.0,0.9689297080039978
+99,test_pos,1,power drill,physical object,0.0,0.5202316641807556
+99,test_pos,1,yacht,vehicle,0.0,0.9451115727424622
+99,test_pos,1,measuring tool,entity,0.0,0.992957592010498
+99,test_pos,1,space shuttle,vehicle,0.0,0.5644696950912476
+99,test_pos,1,daisy,physical object,0.0,0.47221386432647705
+99,test_pos,1,bugle,physical object,0.0,0.9426504969596863
+99,test_pos,1,bracelet,clothing,0.0,0.7709173560142517
+99,test_pos,1,nail gun,tool,0.0,0.7288405895233154
+99,test_pos,1,pike,physical object,0.0,0.8912573456764221
+99,test_pos,1,mango,physical object,0.0,0.7298876643180847
+99,test_pos,1,cedar,plant,0.0,0.9464482069015503
+99,test_pos,1,angle grinder,physical object,0.0,0.6382825374603271
+99,test_pos,1,lander,physical object,0.0,0.45944035053253174
+99,test_pos,1,sander,physical object,0.0,0.9563829302787781
+99,test_pos,1,clarinet,physical object,0.0,0.9394093751907349
+99,test_pos,1,necklace,clothing,0.0,0.7016242146492004
+99,test_pos,1,eagle,animal,0.0,0.8178203105926514
+99,test_pos,1,boat,vehicle,0.0,0.4135613441467285
+99,test_pos,1,hotel,building,0.0,0.24028342962265015
+99,test_pos,1,cream,physical object,0.0,0.7268862128257751
+99,test_pos,1,noodles,food,0.0,0.7935144901275635
+99,test_pos,1,tortilla,food,0.0,0.969128429889679
+99,test_pos,1,bicycle,physical object,0.0,0.36787745356559753
+99,test_pos,1,french horn,instrument,0.0,0.7167554497718811
+99,test_pos,1,lion,animal,0.0,0.959153950214386
+99,test_pos,1,ruler,physical object,0.0,0.7477894425392151
+99,test_pos,1,barrel cactus,physical object,0.0,0.7179756760597229
+99,test_pos,1,piccolo,instrument,0.0,0.9383434057235718
+99,test_pos,1,sneakers,clothing,0.0,0.4684418737888336
+99,test_pos,1,grape,food,0.0,0.8931899070739746
+99,test_pos,1,sausage,food,0.0,0.8690016865730286
+99,test_pos,1,submarine,physical object,0.0,0.9558257460594177
+99,test_pos,1,saw,physical object,0.0,0.956520676612854
+99,test_pos,1,salmon,physical object,0.0,0.5452208518981934
+99,test_pos,1,blouse,clothing,0.0,0.48241275548934937
+99,test_pos,1,butterfly,animal,0.0,0.9517042636871338
+99,test_pos,1,string instrument,entity,0.0,0.9903642535209656
+99,test_pos,1,lawn mower,physical object,0.0,0.6081511974334717
+99,test_pos,1,subway train,vehicle,0.0,0.9407417178153992
+99,test_pos,1,apple,food,0.0,0.9737831354141235
+99,test_pos,1,bat,physical object,0.0,0.9731540083885193
+99,test_pos,1,turkey,physical object,0.0,0.8597024083137512
+99,test_pos,1,monkey,physical object,0.0,0.9046491384506226
+99,test_pos,1,spirit level,tool,0.0,0.5852456092834473
+99,test_pos,1,high heels,clothing,0.0,0.9500083327293396
+99,test_pos,1,insect,entity,0.0,0.9936220049858093
+99,test_pos,1,office building,building,0.0,0.9501196146011353
+99,test_pos,1,grasshopper,physical object,0.0,0.9696006774902344
+99,test_pos,1,percussion instrument,entity,0.0,0.9905630350112915
+99,test_pos,1,tree fern,physical object,0.0,0.8369953036308289
+99,test_pos,1,hotel,physical object,0.0,0.3972659707069397
+99,test_pos,1,prickly pear,plant,0.0,0.7790815830230713
+99,test_pos,1,freight train,physical object,0.0,0.4880450367927551
+99,test_pos,1,french horn,physical object,0.0,0.7515993714332581
+99,test_pos,1,pasta,physical object,0.0,0.9804689288139343
+99,test_pos,1,bassoon,instrument,0.0,0.6794980764389038
+99,test_pos,1,piccolo,physical object,0.0,0.9406095147132874
+99,test_pos,1,cat,physical object,0.0,0.7864286303520203
+99,test_pos,1,micrometer,physical object,0.0,0.4234004020690918
+99,test_pos,1,daisy,plant,0.0,0.36530372500419617
+99,test_pos,1,villa,building,0.0,0.9514510631561279
+99,test_pos,1,rake,physical object,0.0,0.6474466919898987
+99,test_pos,1,cereal,food,0.0,0.7828795909881592
+99,test_pos,1,rocket,vehicle,0.0,0.5228623747825623
+99,test_pos,1,synagogue,physical object,0.0,0.8574615120887756
+99,test_pos,1,school,building,0.0,0.6320558786392212
+99,test_pos,1,factory,building,0.0,0.7430657744407654
+99,test_pos,1,chisel,tool,0.0,0.724391520023346
+99,test_pos,1,gong,instrument,0.0,0.9426630735397339
+99,test_pos,1,dolphin,physical object,0.0,0.973176121711731
+99,test_pos,1,fly,physical object,0.0,0.5591652989387512
+99,test_pos,1,shoes,clothing,0.0,0.6209331154823303
+99,test_pos,1,monkey,animal,0.0,0.8306338787078857
+99,test_pos,1,cabbage,physical object,0.0,0.9799439311027527
+99,test_pos,1,maidenhair fern,physical object,0.0,0.7819613814353943
+99,test_pos,1,pepper,physical object,0.0,0.8414610028266907
+99,test_pos,1,accordion,instrument,0.0,0.3156661093235016
+99,test_pos,1,cottage,building,0.0,0.7635228633880615
+99,test_pos,1,gloves,physical object,0.0,0.42870816588401794
+99,test_pos,1,train,physical object,0.0,0.6573718786239624
+99,test_pos,1,office building,physical object,0.0,0.9650626182556152
+99,test_pos,1,barrel cactus,plant,0.0,0.6266231536865234
+99,test_pos,1,slippers,clothing,0.0,0.6211385726928711
+99,test_pos,1,grasshopper,animal,0.0,0.9528705477714539
+99,test_pos,1,truck,physical object,0.0,0.8107047080993652
+99,test_pos,1,sandals,clothing,0.0,0.471038818359375
+99,test_pos,1,christmas cactus,physical object,0.0,0.8471970558166504
+99,test_pos,1,kayak,physical object,0.0,0.5361781716346741
+99,test_pos,1,jacket,physical object,0.0,0.6619334816932678
+99,test_pos,1,pruning shears,tool,0.0,0.7270019054412842
+99,test_pos,1,commercial building,entity,0.0,0.9939916729927063
+99,test_pos,1,pliers,tool,0.0,0.7234622836112976
+99,test_pos,1,bassoon,physical object,0.0,0.7198343873023987
+99,test_pos,1,cow,animal,0.0,0.34735965728759766
+99,test_pos,1,pants,physical object,0.0,0.9419658184051514
+99,test_pos,1,timpani,instrument,0.0,0.7312077879905701
+99,test_pos,1,yogurt,physical object,0.0,0.9116363525390625
+99,test_pos,1,villa,physical object,0.0,0.9658842086791992
+99,test_pos,1,milk,food,0.0,0.9545092582702637
+99,test_pos,1,school,physical object,0.0,0.7764062285423279
+99,test_pos,1,beetle,physical object,0.0,0.8830097913742065
+99,test_pos,1,glider,physical object,0.0,0.6982634663581848
+99,test_pos,1,factory,physical object,0.0,0.8437578082084656
+99,test_pos,1,alto saxophone,instrument,0.0,0.9596637487411499
+99,test_pos,1,tie,clothing,0.0,0.42640259861946106
+99,test_pos,1,gong,physical object,0.0,0.9445313811302185
+99,test_pos,1,dolphin,animal,0.0,0.9585952758789062
+99,test_pos,1,fly,animal,0.0,0.327725350856781
+99,test_pos,1,temple,physical object,0.0,0.3427548408508301
+99,test_pos,1,vegetable,entity,0.0,0.9951776266098022
+99,test_pos,1,keyboard instrument,entity,0.0,0.9925610423088074
+99,test_pos,1,cake,food,0.0,0.5363300442695618
+99,test_pos,1,tree fern,plant,0.0,0.7853384613990784
+99,test_pos,1,snake,physical object,0.0,0.8187474608421326
+99,test_pos,1,accordion,physical object,0.0,0.368108868598938
+99,test_pos,1,cottage,physical object,0.0,0.8559975028038025
+99,test_pos,1,biplane,vehicle,0.0,0.42498770356178284
+99,test_pos,1,mosque,building,0.0,0.3701414167881012
+99,test_pos,1,pear,food,0.0,0.7854235172271729
+99,test_pos,1,shovel,physical object,0.0,0.8111543655395508
+99,test_pos,1,airplane,physical object,0.0,0.9553855657577515
+99,test_pos,1,rice,food,0.0,0.665372371673584
+99,test_pos,1,goldfish,physical object,0.0,0.8975039124488831
+99,test_pos,1,beanie,clothing,0.0,0.5063045024871826
+99,test_pos,1,organ,instrument,0.0,0.9416265487670898
+99,test_pos,1,taxi,physical object,0.0,0.8005990386009216
+99,test_pos,1,timpani,physical object,0.0,0.7638365626335144
+99,test_pos,1,caliper,physical object,0.0,0.35715973377227783
+99,test_pos,1,cherry tree,physical object,0.0,0.5605040788650513
+99,test_pos,1,ship,physical object,0.0,0.9556872844696045
+99,test_pos,1,university building,physical object,0.0,0.3888261616230011
+99,test_pos,1,maidenhair fern,plant,0.0,0.7115179896354675
+99,test_pos,1,beetle,animal,0.0,0.7901933193206787
+99,test_pos,1,hoe,tool,0.0,0.4867391884326935
+99,test_pos,1,penguin,physical object,0.0,0.7485501766204834
+99,test_pos,1,alto saxophone,physical object,0.0,0.9597527980804443
+99,test_pos,1,cucumber,food,0.0,0.9699897170066833
+99,test_pos,1,butter,food,0.0,0.7381667494773865
+99,test_pos,1,belt,clothing,0.0,0.7593210339546204
+99,test_pos,1,circular saw,physical object,0.0,0.9557698965072632
+99,test_pos,1,residential building,entity,0.0,0.9940328001976013
+99,test_pos,1,aircraft,entity,0.0,0.9921668767929077
+99,test_pos,1,snake,animal,0.0,0.6643190979957581
+99,test_pos,1,shorts,physical object,0.0,0.576028048992157
+99,test_pos,1,coach,vehicle,0.0,0.4005567133426666
+99,test_pos,1,mosque,physical object,0.0,0.5630325078964233
+99,test_pos,1,coat,physical object,0.0,0.9397909641265869
+99,test_pos,1,banana,physical object,0.0,0.9822017550468445
+99,test_pos,1,nail gun,physical object,0.0,0.8248366117477417
+99,test_pos,1,orange,food,0.0,0.9735028743743896
+99,test_pos,1,alligator,animal,0.0,0.9545032382011414
+99,test_pos,1,chicken,physical object,0.0,0.7823770642280579
+99,test_pos,1,lecture hall,building,0.0,0.5738466382026672
+99,test_pos,1,organ,physical object,0.0,0.9435877203941345
+99,test_pos,1,accessory,entity,0.0,0.9894473552703857
+99,test_pos,1,strawberry,physical object,0.0,0.8618149161338806
+99,test_pos,1,potato,food,0.0,0.8559569716453552
+99,test_pos,1,piano,instrument,0.0,0.6742101907730103
+99,test_pos,1,penguin,animal,0.0,0.5492335557937622
+99,test_pos,1,industrial building,entity,0.0,0.9941173791885376
+99,test_pos,1,shirt,physical object,0.0,0.7288827300071716
+99,test_pos,1,leggings,physical object,0.0,0.566156268119812
+99,test_pos,1,mango,food,0.0,0.5349600315093994
+99,test_pos,1,van,vehicle,0.0,0.9460936188697815
+99,test_pos,1,hawk,animal,0.0,0.9575692415237427
+99,test_pos,1,hoodie,clothing,0.0,0.918053388595581
+99,test_pos,1,horse,animal,0.0,0.7057338953018188
+99,test_pos,1,motorcycle,physical object,0.0,0.7930910587310791
+99,test_pos,1,car,physical object,0.0,0.5235188007354736
+99,test_pos,1,ant,physical object,0.0,0.9691693186759949
+99,test_pos,1,orange,physical object,0.0,0.9819024801254272
+99,test_pos,1,owl,animal,0.0,0.8203694820404053
+99,test_pos,1,church,building,0.0,0.7066229581832886
+99,test_pos,1,spinach,food,0.0,0.6309030652046204
+99,test_pos,1,cherry tree,plant,0.0,0.4474833011627197
+99,test_pos,1,gecko,animal,0.0,0.9538592100143433
+99,test_pos,1,airliner,physical object,0.0,0.7093071341514587
+99,test_pos,1,scarf,physical object,0.0,0.4459563195705414
+99,test_pos,1,canoe,vehicle,0.0,0.5470205545425415
+99,test_pos,1,utility knife,tool,0.0,0.584828794002533
+99,test_pos,1,potato,physical object,0.0,0.914054274559021
+99,test_pos,1,gloves,clothing,0.0,0.4687524437904358
+99,test_pos,1,jet,physical object,0.0,0.9555061459541321
+99,test_pos,1,lecture hall,physical object,0.0,0.7380906343460083
+99,test_pos,1,sailboat,physical object,0.0,0.6982309222221375
+99,test_pos,1,spirit level,physical object,0.0,0.730527400970459
+99,test_pos,1,tram,physical object,0.0,0.5174263715744019
+99,test_pos,1,cactus,entity,0.0,0.9925254583358765
+99,test_pos,1,parrot,physical object,0.0,0.6018497943878174
+99,test_pos,1,jigsaw,tool,0.0,0.23105666041374207
+99,test_pos,1,jacket,clothing,0.0,0.6993160247802734
+99,test_pos,1,piano,physical object,0.0,0.7154978513717651
+99,test_pos,1,turkey,food,0.0,0.756621241569519
+99,test_pos,1,pants,clothing,0.0,0.9517558813095093
+99,test_pos,1,sheep,physical object,0.0,0.9728347063064575
+99,test_pos,1,lily,physical object,0.0,0.5862138867378235
+99,test_pos,1,sweater,physical object,0.0,0.3939352035522461
+99,test_pos,1,spinach,physical object,0.0,0.7958036661148071
+99,test_pos,1,bamboo,physical object,0.0,0.826706051826477
+99,test_pos,1,ant,animal,0.0,0.9520378112792969
+99,test_pos,1,chisel,physical object,0.0,0.8205415606498718
+99,test_pos,1,tuba,instrument,0.0,0.2779753506183624
+99,test_pos,1,cheese,food,0.0,0.6665908098220825
+99,test_pos,1,bungalow,building,0.0,0.5572656393051147
+99,test_pos,1,saguaro,physical object,0.0,0.4727558493614197
+99,test_pos,1,trowel,tool,0.0,0.20657777786254883
+99,test_pos,1,yacht,physical object,0.0,0.9549274444580078
+99,test_pos,1,pasta,food,0.0,0.9713606238365173
+99,test_pos,1,trousers,clothing,0.0,0.5838998556137085
+99,test_pos,1,probe,vehicle,0.0,0.6090657114982605
+99,test_pos,1,file,physical object,0.0,0.6542544960975647
+99,test_pos,1,boots,clothing,0.0,0.9524085521697998
+99,test_pos,1,turtle,physical object,0.0,0.6162485480308533
+99,test_pos,1,pike,animal,0.0,0.8044260740280151
+99,test_pos,1,zebra,physical object,0.0,0.9732540249824524
+99,test_pos,1,parrot,animal,0.0,0.36302798986434937
+99,test_pos,1,warehouse,building,0.0,0.4148682653903961
+99,test_pos,1,onion,physical object,0.0,0.6864200234413147
+99,test_pos,1,rose,physical object,0.0,0.4619249105453491
+99,test_pos,1,shopping mall,building,0.0,0.6203919649124146
+99,test_pos,1,banjo,instrument,0.0,0.4562138617038727
+99,test_pos,1,boat,physical object,0.0,0.5384399890899658
+99,test_pos,1,cabbage,food,0.0,0.9705101251602173
+99,test_pos,1,iguana,physical object,0.0,0.7892774343490601
+99,test_pos,1,peach,physical object,0.0,0.9390227794647217
+99,test_pos,1,pepper,food,0.0,0.7238218784332275
+99,test_pos,1,hand drill,physical object,0.0,0.9564775824546814
+99,test_pos,1,cheese,physical object,0.0,0.8087671399116516
+99,test_pos,1,fir,physical object,0.0,0.8296710848808289
+99,test_pos,1,hand tool,entity,0.0,0.9924693703651428
+99,test_pos,1,cap,physical object,0.0,0.5979309678077698
+99,test_pos,1,woodwind,entity,0.0,0.9899216294288635
+99,test_pos,1,broccoli,physical object,0.0,0.9292865991592407
+99,test_pos,1,freight train,vehicle,0.0,0.3654078543186188
+99,test_pos,1,tuba,physical object,0.0,0.3292486369609833
+99,test_pos,1,seagull,physical object,0.0,0.5615569353103638
+99,test_pos,1,lettuce,physical object,0.0,0.9799219369888306
+99,test_pos,1,tape measure,tool,0.0,0.76011061668396
+99,test_pos,1,skirt,physical object,0.0,0.9421581625938416
+99,test_pos,1,bungalow,physical object,0.0,0.7256320118904114
+99,test_pos,1,cello,instrument,0.0,0.9409102201461792
+99,test_pos,1,violet,physical object,0.0,0.9550720453262329
+99,test_pos,1,salmon,animal,0.0,0.31730711460113525
+99,test_pos,1,brass instrument,entity,0.0,0.9903514981269836
+99,test_pos,1,helmet,physical object,0.0,0.9517220854759216
+99,test_pos,1,screwdriver,physical object,0.0,0.40983957052230835
+99,test_pos,1,maple,physical object,0.0,0.9567089676856995
+99,test_pos,1,tortoise,physical object,0.0,0.8854021430015564
+99,test_pos,1,subway train,physical object,0.0,0.9518217444419861
+99,test_pos,1,yogurt,food,0.0,0.8520141839981079
+99,test_pos,1,coat,clothing,0.0,0.9499151110649109
+99,test_pos,1,bat,animal,0.0,0.9586265087127686
+99,test_pos,1,lily,plant,0.0,0.47312796115875244
+99,test_pos,1,zebra,animal,0.0,0.958807110786438
+99,test_pos,1,bacon,physical object,0.0,0.9789166450500488
+99,test_pos,1,warehouse,physical object,0.0,0.609187126159668
+99,test_pos,1,power drill,tool,0.0,0.3540003001689911
+99,test_pos,1,bamboo,plant,0.0,0.7701286673545837
+99,test_pos,1,moth,physical object,0.0,0.8068156838417053
+99,test_pos,1,banjo,physical object,0.0,0.5169937610626221
+99,test_pos,1,flowering plant,entity,0.0,0.9934784173965454
+99,test_pos,1,iguana,animal,0.0,0.613029420375824
+99,test_pos,1,bread,physical object,0.0,0.9762913584709167
+99,test_pos,1,carrot,physical object,0.0,0.9283668994903564
+99,test_pos,1,angle grinder,tool,0.0,0.46817511320114136
+99,test_pos,1,saguaro,plant,0.0,0.3646280765533447
+99,test_pos,1,dairy product,entity,0.0,0.9934438467025757
+99,test_pos,1,sander,tool,0.0,0.9407517313957214
+99,test_pos,1,mallet,physical object,0.0,0.441897451877594
+99,test_pos,1,seagull,animal,0.0,0.3265252113342285
+99,test_pos,1,english horn,instrument,0.0,0.6825129985809326
+99,test_pos,1,mandolin,instrument,0.0,0.2846139073371887
+99,test_pos,1,rocket,physical object,0.0,0.639750063419342
+99,test_pos,1,cat,animal,0.0,0.6089679598808289
+99,test_pos,1,shirt,clothing,0.0,0.7618751525878906
+99,test_pos,1,jeans,physical object,0.0,0.30170971155166626
+99,test_pos,1,cello,physical object,0.0,0.9429336190223694
+99,test_pos,1,saxophone,instrument,0.0,0.24793854355812073
+99,test_pos,1,clavichord,instrument,0.0,0.4620301425457001
+99,test_pos,1,beret,physical object,0.0,0.5981482267379761
+99,test_pos,1,pie,food,0.0,0.8786976933479309
+99,test_pos,1,ruler,tool,0.0,0.6174219250679016
+99,test_pos,1,tortoise,animal,0.0,0.7921547889709473
+99,test_pos,1,helicopter,physical object,0.0,0.405213326215744
+99,test_pos,1,rose,plant,0.0,0.3548808991909027
+99,test_pos,1,glider,vehicle,0.0,0.5947283506393433
+99,test_pos,1,saw,tool,0.0,0.9411545991897583
+99,test_pos,1,t-shirt,physical object,0.0,0.42208412289619446
+99,test_pos,1,fish,entity,0.0,0.9944837689399719
+99,test_pos,1,scarf,clothing,0.0,0.4865850806236267
+99,test_pos,1,fir,plant,0.0,0.7743503451347351
+99,test_pos,1,bracelet,physical object,0.0,0.738958477973938
+99,test_pos,1,trout,physical object,0.0,0.9166772365570068
+99,test_pos,1,grain product,entity,0.0,0.9933332800865173
+99,test_pos,1,bus,vehicle,0.0,0.9424729943275452
+99,test_pos,1,daffodil,physical object,0.0,0.9408632516860962
+99,test_pos,1,cathedral,building,0.0,0.5382723212242126
+99,test_pos,1,violet,plant,0.0,0.9452836513519287
+99,test_pos,1,power plant,building,0.0,0.43069055676460266
+99,test_pos,1,hammer,physical object,0.0,0.9568843245506287
+99,test_pos,1,pudding,physical object,0.0,0.8473088145256042
+99,test_pos,1,crow,physical object,0.0,0.6120396256446838
+99,test_pos,1,maple,plant,0.0,0.9473831653594971
+99,test_pos,1,airplane,vehicle,0.0,0.9456813931465149
+99,test_pos,1,pie,physical object,0.0,0.9266055226325989
+99,test_pos,1,store,building,0.0,0.4220341444015503
+99,test_pos,1,english horn,physical object,0.0,0.7224372029304504
+99,test_pos,1,mandolin,physical object,0.0,0.3341991603374481
+99,test_pos,1,tuna,physical object,0.0,0.5013012886047363
+99,test_pos,1,harp,instrument,0.0,0.2925175428390503
+99,test_pos,1,spruce,physical object,0.0,0.7631304264068604
+99,test_pos,1,banana,food,0.0,0.9739645719528198
+99,test_pos,1,space station,vehicle,0.0,0.9213917255401611
+99,test_pos,1,clavichord,physical object,0.0,0.522730827331543
+99,test_pos,1,saxophone,physical object,0.0,0.2936033308506012
+99,test_pos,1,religious building,entity,0.0,0.9939731955528259
+99,test_pos,1,chicken,food,0.0,0.6199852824211121
+99,test_pos,1,apple tree,physical object,0.0,0.9559269547462463
+99,test_pos,1,micrometer,tool,0.0,0.2715875804424286
+99,test_pos,1,rake,tool,0.0,0.47926950454711914
+99,test_pos,1,strawberry,food,0.0,0.7589418292045593
+99,test_pos,1,kiwi,physical object,0.0,0.6959434151649475
+99,test_pos,1,harpsichord,instrument,0.0,0.7080734372138977
+99,test_pos,1,library,building,0.0,0.47370997071266174
+99,test_pos,1,blouse,physical object,0.0,0.44189682602882385
+99,test_pos,1,tiger,physical object,0.0,0.64268958568573
+99,test_pos,1,sunflower,physical object,0.0,0.7753829956054688
+99,test_pos,1,wrench,tool,0.0,0.2637476623058319
+99,test_pos,1,christmas cactus,plant,0.0,0.7987868785858154
+99,test_pos,1,biplane,physical object,0.0,0.5499988794326782
+99,test_pos,1,pigeon,physical object,0.0,0.9730576276779175
+99,test_pos,1,crocodile,physical object,0.0,0.6638669371604919
+99,test_pos,1,trumpet,instrument,0.0,0.7096555233001709
+99,test_pos,1,utility knife,physical object,0.0,0.7216492295265198
+99,test_pos,1,catfish,physical object,0.0,0.8162829279899597
+99,test_pos,1,cathedral,physical object,0.0,0.71216881275177
+99,test_pos,1,whale,physical object,0.0,0.9730362892150879
+99,test_pos,1,power plant,physical object,0.0,0.6241964101791382
+99,test_pos,1,elephant,physical object,0.0,0.9740934371948242
+99,test_pos,1,ferry,physical object,0.0,0.6801050901412964
+99,test_pos,1,crow,animal,0.0,0.37324056029319763
+99,test_pos,1,goldfish,animal,0.0,0.816982090473175
+99,test_pos,1,cymbals,instrument,0.0,0.9417930245399475
+99,test_pos,1,tuna,animal,0.0,0.2795567214488983
+99,test_pos,1,ukulele,instrument,0.0,0.721555769443512
+99,test_pos,1,harp,physical object,0.0,0.3427359163761139
+99,test_pos,1,lizard,physical object,0.0,0.9700882434844971
+99,test_pos,1,monorail,physical object,0.0,0.7056130766868591
+99,test_pos,1,bee,physical object,0.0,0.8811374306678772
+99,test_pos,1,euphonium,instrument,0.0,0.5441486239433289
+99,test_pos,1,carp,physical object,0.0,0.7649954557418823
+99,test_pos,1,reptile,entity,0.0,0.9940578937530518
+99,test_pos,1,orchid,physical object,0.0,0.34729474782943726
+99,test_pos,1,plum,physical object,0.0,0.7235472798347473
+99,test_pos,1,lamb,physical object,0.0,0.7931704521179199
+99,test_pos,1,ice cream,physical object,0.0,0.6322680115699768
+99,test_pos,1,spacecraft,entity,0.0,0.9924505352973938
+99,test_pos,1,meat,entity,0.0,0.9950286746025085
+99,test_pos,1,poppy,physical object,0.0,0.7443538308143616
+99,test_pos,1,harpsichord,physical object,0.0,0.7442140579223633
+99,test_pos,1,tiger,animal,0.0,0.4044164717197418
+99,test_pos,1,skirt,clothing,0.0,0.9519196152687073
+99,test_pos,1,library,physical object,0.0,0.6623532176017761
+99,test_pos,1,oboe,instrument,0.0,0.703934907913208
+99,test_pos,1,daffodil,plant,0.0,0.9265031814575195
+99,test_pos,1,crocodile,animal,0.0,0.4283103942871094
+99,test_pos,1,trumpet,physical object,0.0,0.745570719242096
+99,test_pos,1,lawn grass,physical object,0.0,0.6269899606704712
+99,test_pos,1,headwear,entity,0.0,0.9850034117698669
+99,test_pos,1,catfish,animal,0.0,0.6630197167396545
+99,test_pos,1,spruce,plant,0.0,0.6855856776237488
+99,test_pos,1,scooter,physical object,0.0,0.6397475600242615
+99,test_pos,1,whale,animal,0.0,0.9583563208580017
+99,test_pos,1,minibus,vehicle,0.0,0.7493046522140503
+99,test_pos,1,elephant,animal,0.0,0.9602632522583008
+99,test_pos,1,power tool,entity,0.0,0.9930374026298523
+99,test_pos,1,gardening tool,entity,0.0,0.9928107857704163
+99,test_pos,1,upper body clothing,entity,0.0,0.9891996383666992
+99,test_pos,1,flugelhorn,instrument,0.0,0.9389076828956604
+99,test_pos,1,apple tree,plant,0.0,0.9464079737663269
+99,test_pos,1,oak,physical object,0.0,0.9563578963279724
+99,test_pos,1,slippers,physical object,0.0,0.5800487399101257
+99,test_pos,1,cymbals,physical object,0.0,0.9437384605407715
+99,test_pos,1,mammal,entity,0.0,0.9942048192024231
+99,test_pos,1,ukulele,physical object,0.0,0.7556328177452087
+99,test_pos,1,lizard,animal,0.0,0.9531566500663757
+99,test_pos,1,pork,physical object,0.0,0.7898193597793579
+99,test_pos,1,bee,animal,0.0,0.786317765712738
+99,test_pos,1,carp,animal,0.0,0.5746849179267883
+99,test_pos,1,euphonium,physical object,0.0,0.6006879210472107
+99,test_pos,1,sunflower,plant,0.0,0.7015584111213684
+99,test_pos,1,caliper,tool,0.0,0.22426895797252655
+99,test_pos,1,flute,instrument,0.0,0.2085513174533844
+99,test_pos,1,lander,vehicle,0.0,0.34152472019195557
+99,test_pos,1,grass,entity,0.0,0.9929343461990356
+99,test_pos,1,cardigan,physical object,0.0,0.5223388075828552
+99,test_pos,1,onion,food,0.0,0.47696107625961304
+99,test_pos,1,jeans,clothing,0.0,0.33041465282440186
+99,test_pos,1,oboe,physical object,0.0,0.7407298684120178
+99,test_pos,1,dessert,entity,0.0,0.9926965236663818
+99,test_pos,1,beret,clothing,0.0,0.6386635303497314
+99,test_pos,1,bicycle,vehicle,0.0,0.26676303148269653
+99,test_pos,1,peach,food,0.0,0.9001566767692566
+99,test_pos,1,bass clarinet,instrument,0.0,0.4322826862335205
+99,test_pos,1,circular saw,tool,0.0,0.9398107528686523
+99,test_pos,1,t-shirt,clothing,0.0,0.4616680443286896
+99,test_pos,1,church,physical object,0.0,0.8227527141571045
+99,test_pos,1,double bass,instrument,0.0,0.2546565532684326
+99,test_pos,1,submarine,vehicle,0.0,0.946256160736084
+99,test_pos,1,violin,instrument,0.0,0.7185668349266052
+99,test_pos,1,broccoli,food,0.0,0.8833334445953369
+99,test_pos,1,flugelhorn,physical object,0.0,0.9411388635635376
+99,test_pos,1,space shuttle,physical object,0.0,0.6744257807731628
+99,test_pos,1,orchid,plant,0.0,0.260396271944046
+99,test_pos,1,lettuce,food,0.0,0.9704791307449341
+99,test_pos,1,poppy,plant,0.0,0.6608508825302124
+99,test_pos,1,rail vehicle,entity,0.0,0.9927996397018433
+99,test_pos,1,drum kit,instrument,0.0,0.2783395051956177
+99,test_pos,1,trombone,instrument,0.0,0.9394275546073914
+99,test_pos,1,triangle,instrument,0.0,0.7220560908317566
+99,test_pos,1,wheatgrass,physical object,0.0,0.6244271993637085
+99,test_pos,1,beanie,physical object,0.0,0.4654301702976227
+99,test_pos,1,pruning shears,physical object,0.0,0.8223667740821838
+99,test_pos,1,lawn grass,plant,0.0,0.5189051628112793
+99,test_pos,1,pliers,physical object,0.0,0.8203227519989014
+99,test_pos,1,footwear,entity,0.0,0.9894424676895142
+99,test_pos,1,bacon,food,0.0,0.9688867330551147
+99,test_pos,1,snare drum,instrument,0.0,0.541709303855896
+99,test_pos,1,flute,physical object,0.0,0.2493828535079956
+99,test_pos,1,sheep,animal,0.0,0.9580569863319397
+99,test_pos,1,cookie,physical object,0.0,0.9795491099357605
+99,test_pos,1,reed,physical object,0.0,0.7701438665390015
+99,test_pos,1,bread,food,0.0,0.9647265672683716
+99,test_pos,1,oak,plant,0.0,0.9469634890556335
+99,test_pos,1,bass clarinet,physical object,0.0,0.493043452501297
+99,test_pos,1,marimba,instrument,0.0,0.22916382551193237
+99,test_pos,1,carrot,food,0.0,0.8816874623298645
+99,test_pos,1,willow,physical object,0.0,0.9549406170845032
+99,test_pos,1,belt,physical object,0.0,0.7261879444122314
+99,test_pos,1,double bass,physical object,0.0,0.30102893710136414
+99,test_pos,1,synagogue,building,0.0,0.7661100625991821
+99,test_pos,1,viola,instrument,0.0,0.6992955207824707
+99,test_pos,1,violin,physical object,0.0,0.7531107068061829
+99,test_pos,1,probe,physical object,0.0,0.709791362285614
+99,test_pos,1,shorts,clothing,0.0,0.6172246932983398
+99,test_pos,1,sparrow,physical object,0.0,0.9729888439178467
+99,test_pos,1,turtle,animal,0.0,0.3794066309928894
+99,test_pos,1,sitar,instrument,0.0,0.9404692649841309
+99,test_pos,1,drum kit,physical object,0.0,0.32729074358940125
+99,test_pos,1,mosquito,physical object,0.0,0.67498779296875
+99,test_pos,1,trombone,physical object,0.0,0.9415994882583618
+99,test_pos,1,lower body clothing,entity,0.0,0.9894172549247742
+99,test_pos,1,noodles,physical object,0.0,0.8803292512893677
+99,test_pos,1,tortilla,physical object,0.0,0.9790508151054382
+99,test_pos,1,triangle,physical object,0.0,0.7561329007148743
+99,test_pos,1,shopping mall,physical object,0.0,0.7681174278259277
